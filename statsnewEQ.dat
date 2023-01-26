@@ -1,0 +1,4621 @@
+EQ: 0
+Currt: 1.09e+06
+ cost: -29000
+Satisfied cnt:  189
+EQ: 1
+Currt: 1.09e+06
+ cost: -30999
+Satisfied cnt:  187
+EQ: 2
+Currt: 1.09e+06
+ cost: -29069
+Satisfied cnt:  188
+EQ: 3
+Currt: 1.09e+06
+ cost: -29068
+Satisfied cnt:  188
+EQ: 4
+Currt: 1.09e+06
+ cost: -30255
+Satisfied cnt:  186
+EQ: 5
+Currt: 1.09e+06
+ cost: -28535
+Satisfied cnt:  187
+EQ: 6
+Currt: 1.09e+06
+ cost: -30534
+Satisfied cnt:  185
+EQ: 7
+Currt: 1.09e+06
+ cost: -32307
+Satisfied cnt:  183
+EQ: 8
+Currt: 1.09e+06
+ cost: -29168
+Satisfied cnt:  185
+EQ: 9
+Currt: 1.09e+06
+ cost: -28167
+Satisfied cnt:  186
+EQ: 10
+Currt: 1.09e+06
+ cost: -29168
+Satisfied cnt:  185
+EQ: 11
+Currt: 1.09e+06
+ cost: -27702
+Satisfied cnt:  185
+EQ: 12
+Currt: 1.09e+06
+ cost: -26701
+Satisfied cnt:  186
+EQ: 13
+Currt: 1.09e+06
+ cost: -28235
+Satisfied cnt:  183
+EQ: 14
+Currt: 1.09e+06
+ cost: -26234
+Satisfied cnt:  185
+EQ: 15
+Currt: 1.09e+06
+ cost: -27700
+Satisfied cnt:  185
+EQ: 16
+Currt: 1.09e+06
+ cost: -26927
+Satisfied cnt:  186
+EQ: 17
+Currt: 1.09e+06
+ cost: -25928
+Satisfied cnt:  187
+EQ: 18
+Currt: 1.09e+06
+ cost: -25462
+Satisfied cnt:  186
+EQ: 19
+Currt: 1.09e+06
+ cost: -25996
+Satisfied cnt:  184
+EQ: 20
+Currt: 1.09e+06
+ cost: -21997
+Satisfied cnt:  188
+EQ: 21
+Currt: 1.09e+06
+ cost: -21531
+Satisfied cnt:  187
+EQ: 22
+Currt: 1.09e+06
+ cost: -18601
+Satisfied cnt:  189
+EQ: 23
+Currt: 1.09e+06
+ cost: -15135
+Satisfied cnt:  191
+EQ: 24
+Currt: 1.09e+06
+ cost: -18900
+Satisfied cnt:  187
+EQ: 25
+Currt: 1.09e+06
+ cost: -14434
+Satisfied cnt:  190
+EQ: 26
+Currt: 1.09e+06
+ cost: -16900
+Satisfied cnt:  189
+EQ: 27
+Currt: 1.09e+06
+ cost: -17366
+Satisfied cnt:  190
+EQ: 28
+Currt: 1.09e+06
+ cost: -16900
+Satisfied cnt:  189
+EQ: 29
+Currt: 1.09e+06
+ cost: -17434
+Satisfied cnt:  187
+EQ: 30
+Currt: 1.09e+06
+ cost: -17007
+Satisfied cnt:  187
+EQ: 31
+Currt: 1.09e+06
+ cost: -17680
+Satisfied cnt:  186
+EQ: 32
+Currt: 1.09e+06
+ cost: -19610
+Satisfied cnt:  185
+EQ: 33
+Currt: 1.09e+06
+ cost: -23609
+Satisfied cnt:  181
+EQ: 34
+Currt: 1.09e+06
+ cost: -24329
+Satisfied cnt:  181
+EQ: 35
+Currt: 1.09e+06
+ cost: -22178
+Satisfied cnt:  183
+EQ: 36
+Currt: 1.09e+06
+ cost: -19712
+Satisfied cnt:  184
+EQ: 37
+Currt: 1.09e+06
+ cost: -18713
+Satisfied cnt:  185
+EQ: 38
+Currt: 1.09e+06
+ cost: -17993
+Satisfied cnt:  185
+EQ: 39
+Currt: 1.09e+06
+ cost: -14992
+Satisfied cnt:  188
+EQ: 40
+Currt: 1.09e+06
+ cost: -13472
+Satisfied cnt:  189
+EQ: 41
+Currt: 1.09e+06
+ cost: -15471
+Satisfied cnt:  187
+EQ: 42
+Currt: 1.09e+06
+ cost: -14284
+Satisfied cnt:  189
+EQ: 43
+Currt: 1.09e+06
+ cost: -16750
+Satisfied cnt:  188
+EQ: 44
+Currt: 1.09e+06
+ cost: -15216
+Satisfied cnt:  191
+EQ: 45
+Currt: 1.09e+06
+ cost: -15750
+Satisfied cnt:  189
+EQ: 46
+Currt: 1.09e+06
+ cost: -17901
+Satisfied cnt:  187
+EQ: 47
+Currt: 1.09e+06
+ cost: -16902
+Satisfied cnt:  188
+EQ: 48
+Currt: 1.09e+06
+ cost: -18901
+Satisfied cnt:  186
+EQ: 49
+Currt: 1.09e+06
+ cost: -18367
+Satisfied cnt:  188
+EQ: 50
+Currt: 1.09e+06
+ cost: -18831
+Satisfied cnt:  187
+EQ: 51
+Currt: 1.09e+06
+ cost: -19901
+Satisfied cnt:  185
+EQ: 52
+Currt: 1.09e+06
+ cost: -21040
+Satisfied cnt:  185
+EQ: 53
+Currt: 1.09e+06
+ cost: -20236
+Satisfied cnt:  185
+EQ: 54
+Currt: 1.09e+06
+ cost: -19770
+Satisfied cnt:  184
+EQ: 55
+Currt: 1.09e+06
+ cost: -20304
+Satisfied cnt:  182
+EQ: 56
+Currt: 1.09e+06
+ cost: -17165
+Satisfied cnt:  184
+EQ: 57
+Currt: 1.09e+06
+ cost: -15885
+Satisfied cnt:  186
+EQ: 58
+Currt: 1.09e+06
+ cost: -16351
+Satisfied cnt:  187
+EQ: 59
+Currt: 1.09e+06
+ cost: -18817
+Satisfied cnt:  186
+EQ: 60
+Currt: 1.09e+06
+ cost: -21816
+Satisfied cnt:  183
+EQ: 61
+Currt: 1.09e+06
+ cost: -19665
+Satisfied cnt:  185
+EQ: 62
+Currt: 1.09e+06
+ cost: -17201
+Satisfied cnt:  188
+EQ: 63
+Currt: 1.09e+06
+ cost: -18067
+Satisfied cnt:  187
+EQ: 64
+Currt: 1.09e+06
+ cost: -15068
+Satisfied cnt:  190
+EQ: 65
+Currt: 1.09e+06
+ cost: -17067
+Satisfied cnt:  188
+EQ: 66
+Currt: 1.09e+06
+ cost: -14601
+Satisfied cnt:  189
+EQ: 67
+Currt: 1.09e+06
+ cost: -17067
+Satisfied cnt:  188
+EQ: 68
+Currt: 1.09e+06
+ cost: -16201
+Satisfied cnt:  189
+EQ: 69
+Currt: 1.09e+06
+ cost: -17481
+Satisfied cnt:  187
+EQ: 70
+Currt: 1.09e+06
+ cost: -18947
+Satisfied cnt:  187
+EQ: 71
+Currt: 1.09e+06
+ cost: -17948
+Satisfied cnt:  188
+EQ: 72
+Currt: 1.09e+06
+ cost: -17947
+Satisfied cnt:  188
+EQ: 73
+Currt: 1.09e+06
+ cost: -13948
+Satisfied cnt:  192
+EQ: 74
+Currt: 1.09e+06
+ cost: -12947
+Satisfied cnt:  193
+EQ: 75
+Currt: 1.09e+06
+ cost: -11481
+Satisfied cnt:  193
+EQ: 76
+Currt: 1.09e+06
+ cost: -11201
+Satisfied cnt:  194
+EQ: 77
+Currt: 1.09e+06
+ cost: -10735
+Satisfied cnt:  193
+EQ: 78
+Currt: 1.09e+06
+ cost: -11508
+Satisfied cnt:  192
+EQ: 79
+Currt: 1.09e+06
+ cost: -12042
+Satisfied cnt:  190
+EQ: 80
+Currt: 1.09e+06
+ cost: -12972
+Satisfied cnt:  190
+EQ: 81
+Currt: 1.09e+06
+ cost: -11971
+Satisfied cnt:  191
+EQ: 82
+Currt: 1.09e+06
+ cost: -11437
+Satisfied cnt:  193
+EQ: 83
+Currt: 1.09e+06
+ cost: -13438
+Satisfied cnt:  191
+EQ: 84
+Currt: 1.09e+06
+ cost: -11972
+Satisfied cnt:  191
+EQ: 85
+Currt: 1.09e+06
+ cost: -13971
+Satisfied cnt:  189
+EQ: 86
+Currt: 1.09e+06
+ cost: -15970
+Satisfied cnt:  187
+EQ: 87
+Currt: 1.09e+06
+ cost: -14969
+Satisfied cnt:  188
+EQ: 88
+Currt: 1.09e+06
+ cost: -16773
+Satisfied cnt:  187
+EQ: 89
+Currt: 1.09e+06
+ cost: -13307
+Satisfied cnt:  189
+EQ: 90
+Currt: 1.09e+06
+ cost: -15308
+Satisfied cnt:  187
+EQ: 91
+Currt: 1.09e+06
+ cost: -17447
+Satisfied cnt:  186
+EQ: 92
+Currt: 1.09e+06
+ cost: -17313
+Satisfied cnt:  186
+EQ: 93
+Currt: 1.09e+06
+ cost: -16847
+Satisfied cnt:  185
+EQ: 94
+Currt: 1.09e+06
+ cost: -18313
+Satisfied cnt:  185
+EQ: 95
+Currt: 1.09e+06
+ cost: -17312
+Satisfied cnt:  186
+EQ: 96
+Currt: 1.09e+06
+ cost: -15846
+Satisfied cnt:  186
+EQ: 97
+Currt: 1.09e+06
+ cost: -18997
+Satisfied cnt:  183
+EQ: 98
+Currt: 1.09e+06
+ cost: -19531
+Satisfied cnt:  181
+EQ: 99
+Currt: 1.09e+06
+ cost: -17532
+Satisfied cnt:  183
+EQ: 100
+Currt: 1.09e+06
+ cost: -16066
+Satisfied cnt:  183
+EQ: 101
+Currt: 1.09e+06
+ cost: -18586
+Satisfied cnt:  181
+EQ: 102
+Currt: 1.09e+06
+ cost: -15120
+Satisfied cnt:  183
+EQ: 103
+Currt: 1.09e+06
+ cost: -15190
+Satisfied cnt:  182
+EQ: 104
+Currt: 1.09e+06
+ cost: -13617
+Satisfied cnt:  184
+EQ: 105
+Currt: 1.09e+06
+ cost: -15081
+Satisfied cnt:  182
+EQ: 106
+Currt: 1.09e+06
+ cost: -15754
+Satisfied cnt:  181
+EQ: 107
+Currt: 1.09e+06
+ cost: -14684
+Satisfied cnt:  183
+EQ: 108
+Currt: 1.09e+06
+ cost: -9218
+Satisfied cnt:  187
+EQ: 109
+Currt: 1.09e+06
+ cost: -11684
+Satisfied cnt:  186
+EQ: 110
+Currt: 1.09e+06
+ cost: -7919
+Satisfied cnt:  190
+EQ: 111
+Currt: 1.09e+06
+ cost: -7989
+Satisfied cnt:  189
+EQ: 112
+Currt: 1.09e+06
+ cost: -8185
+Satisfied cnt:  188
+EQ: 113
+Currt: 1.09e+06
+ cost: -6051
+Satisfied cnt:  190
+EQ: 114
+Currt: 1.09e+06
+ cost: -6331
+Satisfied cnt:  189
+EQ: 115
+Currt: 1.09e+06
+ cost: -6051
+Satisfied cnt:  190
+EQ: 116
+Currt: 1.09e+06
+ cost: -8517
+Satisfied cnt:  189
+EQ: 117
+Currt: 1.09e+06
+ cost: -11282
+Satisfied cnt:  186
+EQ: 118
+Currt: 1.09e+06
+ cost: -13086
+Satisfied cnt:  185
+EQ: 119
+Currt: 1.09e+06
+ cost: -13366
+Satisfied cnt:  184
+EQ: 120
+Currt: 1.09e+06
+ cost: -14365
+Satisfied cnt:  183
+EQ: 121
+Currt: 1.09e+06
+ cost: -16295
+Satisfied cnt:  182
+EQ: 122
+Currt: 1.09e+06
+ cost: -13225
+Satisfied cnt:  186
+EQ: 123
+Currt: 1.09e+06
+ cost: -13691
+Satisfied cnt:  187
+EQ: 124
+Currt: 1.09e+06
+ cost: -18157
+Satisfied cnt:  184
+EQ: 125
+Currt: 1.09e+06
+ cost: -21227
+Satisfied cnt:  180
+EQ: 126
+Currt: 1.09e+06
+ cost: -18157
+Satisfied cnt:  184
+EQ: 127
+Currt: 1.09e+06
+ cost: -16227
+Satisfied cnt:  185
+EQ: 128
+Currt: 1.09e+06
+ cost: -18226
+Satisfied cnt:  183
+EQ: 129
+Currt: 1.09e+06
+ cost: -22227
+Satisfied cnt:  179
+EQ: 130
+Currt: 1.09e+06
+ cost: -22088
+Satisfied cnt:  178
+EQ: 131
+Currt: 1.09e+06
+ cost: -22554
+Satisfied cnt:  179
+EQ: 132
+Currt: 1.09e+06
+ cost: -24555
+Satisfied cnt:  177
+EQ: 133
+Currt: 1.09e+06
+ cost: -26021
+Satisfied cnt:  177
+EQ: 134
+Currt: 1.09e+06
+ cost: -25741
+Satisfied cnt:  178
+EQ: 135
+Currt: 1.09e+06
+ cost: -25207
+Satisfied cnt:  180
+EQ: 136
+Currt: 1.09e+06
+ cost: -19206
+Satisfied cnt:  186
+EQ: 137
+Currt: 1.09e+06
+ cost: -19740
+Satisfied cnt:  184
+EQ: 138
+Currt: 1.09e+06
+ cost: -19879
+Satisfied cnt:  185
+EQ: 139
+Currt: 1.09e+06
+ cost: -16413
+Satisfied cnt:  187
+EQ: 140
+Currt: 1.09e+06
+ cost: -15740
+Satisfied cnt:  188
+EQ: 141
+Currt: 1.09e+06
+ cost: -16206
+Satisfied cnt:  189
+EQ: 142
+Currt: 1.09e+06
+ cost: -15740
+Satisfied cnt:  188
+EQ: 143
+Currt: 1.09e+06
+ cost: -17274
+Satisfied cnt:  185
+EQ: 144
+Currt: 1.09e+06
+ cost: -17275
+Satisfied cnt:  185
+EQ: 145
+Currt: 1.09e+06
+ cost: -13276
+Satisfied cnt:  189
+EQ: 146
+Currt: 1.09e+06
+ cost: -15277
+Satisfied cnt:  187
+EQ: 147
+Currt: 1.09e+06
+ cost: -14743
+Satisfied cnt:  189
+EQ: 148
+Currt: 1.09e+06
+ cost: -12813
+Satisfied cnt:  190
+EQ: 149
+Currt: 1.09e+06
+ cost: -14814
+Satisfied cnt:  188
+EQ: 150
+Currt: 1.09e+06
+ cost: -13049
+Satisfied cnt:  190
+EQ: 151
+Currt: 1.09e+06
+ cost: -10583
+Satisfied cnt:  191
+EQ: 152
+Currt: 1.09e+06
+ cost: -5117
+Satisfied cnt:  195
+EQ: 153
+Currt: 1.09e+06
+ cost: -4118
+Satisfied cnt:  196
+EQ: 154
+Currt: 1.09e+06
+ cost: -6584
+Satisfied cnt:  195
+EQ: 155
+Currt: 1.09e+06
+ cost: -3433
+Satisfied cnt:  198
+EQ: 156
+Currt: 1.09e+06
+ cost: -3006
+Satisfied cnt:  198
+EQ: 157
+Currt: 1.09e+06
+ cost: -540
+Satisfied cnt:  199
+EQ: 158
+Currt: 1.09e+06
+ cost: 1180
+Satisfied cnt:  200
+EQ: 159
+Currt: 1.09e+06
+ cost: 495
+Satisfied cnt:  198
+EQ: 160
+Currt: 1.09e+06
+ cost: -2971
+Satisfied cnt:  196
+EQ: 161
+Currt: 1.09e+06
+ cost: -2832
+Satisfied cnt:  195
+EQ: 162
+Currt: 1.09e+06
+ cost: -3159
+Satisfied cnt:  195
+EQ: 163
+Currt: 1.09e+06
+ cost: -5346
+Satisfied cnt:  192
+EQ: 164
+Currt: 1.09e+06
+ cost: -6345
+Satisfied cnt:  191
+EQ: 165
+Currt: 1.09e+06
+ cost: -7541
+Satisfied cnt:  189
+EQ: 166
+Currt: 1.09e+06
+ cost: -7306
+Satisfied cnt:  189
+EQ: 167
+Currt: 1.09e+06
+ cost: -10305
+Satisfied cnt:  186
+EQ: 168
+Currt: 1.09e+06
+ cost: -9839
+Satisfied cnt:  185
+EQ: 169
+Currt: 1.09e+06
+ cost: -9559
+Satisfied cnt:  186
+EQ: 170
+Currt: 1.09e+06
+ cost: -9693
+Satisfied cnt:  186
+EQ: 171
+Currt: 1.09e+06
+ cost: -9159
+Satisfied cnt:  188
+EQ: 172
+Currt: 1.09e+06
+ cost: -10310
+Satisfied cnt:  187
+EQ: 173
+Currt: 1.09e+06
+ cost: -6844
+Satisfied cnt:  189
+EQ: 174
+Currt: 1.09e+06
+ cost: -7310
+Satisfied cnt:  190
+EQ: 175
+Currt: 1.09e+06
+ cost: -2844
+Satisfied cnt:  193
+EQ: 176
+Currt: 1.09e+06
+ cost: -6517
+Satisfied cnt:  189
+EQ: 177
+Currt: 1.09e+06
+ cost: -4744
+Satisfied cnt:  191
+EQ: 178
+Currt: 1.09e+06
+ cost: -4557
+Satisfied cnt:  192
+EQ: 179
+Currt: 1.09e+06
+ cost: -2091
+Satisfied cnt:  193
+EQ: 180
+Currt: 1.09e+06
+ cost: -4021
+Satisfied cnt:  192
+EQ: 181
+Currt: 1.09e+06
+ cost: -7487
+Satisfied cnt:  190
+EQ: 182
+Currt: 1.09e+06
+ cost: -4021
+Satisfied cnt:  192
+EQ: 183
+Currt: 1.09e+06
+ cost: -11487
+Satisfied cnt:  186
+EQ: 184
+Currt: 1.09e+06
+ cost: -9488
+Satisfied cnt:  188
+EQ: 185
+Currt: 1.09e+06
+ cost: -12954
+Satisfied cnt:  186
+EQ: 186
+Currt: 1.09e+06
+ cost: -10488
+Satisfied cnt:  187
+EQ: 187
+Currt: 1.09e+06
+ cost: -9024
+Satisfied cnt:  189
+EQ: 188
+Currt: 1.09e+06
+ cost: -10490
+Satisfied cnt:  189
+EQ: 189
+Currt: 1.09e+06
+ cost: -11489
+Satisfied cnt:  188
+EQ: 190
+Currt: 1.09e+06
+ cost: -11488
+Satisfied cnt:  188
+EQ: 191
+Currt: 1.09e+06
+ cost: -10022
+Satisfied cnt:  188
+EQ: 192
+Currt: 1.09e+06
+ cost: -12488
+Satisfied cnt:  187
+EQ: 193
+Currt: 1.09e+06
+ cost: -7022
+Satisfied cnt:  191
+EQ: 194
+Currt: 1.09e+06
+ cost: -10486
+Satisfied cnt:  187
+EQ: 195
+Currt: 1.09e+06
+ cost: -10485
+Satisfied cnt:  187
+EQ: 196
+Currt: 1.09e+06
+ cost: -10019
+Satisfied cnt:  186
+EQ: 197
+Currt: 1.09e+06
+ cost: -10792
+Satisfied cnt:  185
+EQ: 198
+Currt: 1.09e+06
+ cost: -13258
+Satisfied cnt:  184
+EQ: 199
+Currt: 1.09e+06
+ cost: -10792
+Satisfied cnt:  185
+EQ: 200
+Currt: 1.09e+06
+ cost: -12791
+Satisfied cnt:  183
+EQ: 201
+Currt: 1.09e+06
+ cost: -16218
+Satisfied cnt:  180
+EQ: 202
+Currt: 1.09e+06
+ cost: -15453
+Satisfied cnt:  181
+EQ: 203
+Currt: 1.09e+06
+ cost: -11987
+Satisfied cnt:  183
+EQ: 204
+Currt: 1.09e+06
+ cost: -13986
+Satisfied cnt:  181
+EQ: 205
+Currt: 1.09e+06
+ cost: -12520
+Satisfied cnt:  181
+EQ: 206
+Currt: 1.09e+06
+ cost: -10521
+Satisfied cnt:  183
+EQ: 207
+Currt: 1.09e+06
+ cost: -10801
+Satisfied cnt:  182
+EQ: 208
+Currt: 1.09e+06
+ cost: -7731
+Satisfied cnt:  186
+EQ: 209
+Currt: 1.09e+06
+ cost: -9197
+Satisfied cnt:  186
+EQ: 210
+Currt: 1.09e+06
+ cost: -7198
+Satisfied cnt:  188
+EQ: 211
+Currt: 1.09e+06
+ cost: -8664
+Satisfied cnt:  188
+EQ: 212
+Currt: 1.09e+06
+ cost: -11429
+Satisfied cnt:  185
+EQ: 213
+Currt: 1.09e+06
+ cost: -8963
+Satisfied cnt:  186
+EQ: 214
+Currt: 1.09e+06
+ cost: -9964
+Satisfied cnt:  185
+EQ: 215
+Currt: 1.09e+06
+ cost: -8965
+Satisfied cnt:  186
+EQ: 216
+Currt: 1.09e+06
+ cost: -14431
+Satisfied cnt:  182
+EQ: 217
+Currt: 1.09e+06
+ cost: -10432
+Satisfied cnt:  186
+EQ: 218
+Currt: 1.09e+06
+ cost: -7966
+Satisfied cnt:  187
+EQ: 219
+Currt: 1.09e+06
+ cost: -8020
+Satisfied cnt:  186
+EQ: 220
+Currt: 1.09e+06
+ cost: -6021
+Satisfied cnt:  188
+EQ: 221
+Currt: 1.09e+06
+ cost: -9487
+Satisfied cnt:  186
+EQ: 222
+Currt: 1.09e+06
+ cost: -13953
+Satisfied cnt:  183
+EQ: 223
+Currt: 1.09e+06
+ cost: -10487
+Satisfied cnt:  185
+EQ: 224
+Currt: 1.09e+06
+ cost: -10557
+Satisfied cnt:  184
+EQ: 225
+Currt: 1.09e+06
+ cost: -12023
+Satisfied cnt:  184
+EQ: 226
+Currt: 1.09e+06
+ cost: -15022
+Satisfied cnt:  181
+EQ: 227
+Currt: 1.09e+06
+ cost: -14556
+Satisfied cnt:  180
+EQ: 228
+Currt: 1.09e+06
+ cost: -16695
+Satisfied cnt:  179
+EQ: 229
+Currt: 1.09e+06
+ cost: -15882
+Satisfied cnt:  179
+EQ: 230
+Currt: 1.09e+06
+ cost: -16695
+Satisfied cnt:  179
+EQ: 231
+Currt: 1.09e+06
+ cost: -18161
+Satisfied cnt:  179
+EQ: 232
+Currt: 1.09e+06
+ cost: -18027
+Satisfied cnt:  179
+EQ: 233
+Currt: 1.09e+06
+ cost: -15028
+Satisfied cnt:  182
+EQ: 234
+Currt: 1.09e+06
+ cost: -13263
+Satisfied cnt:  184
+EQ: 235
+Currt: 1.09e+06
+ cost: -14333
+Satisfied cnt:  182
+EQ: 236
+Currt: 1.09e+06
+ cost: -12137
+Satisfied cnt:  185
+EQ: 237
+Currt: 1.09e+06
+ cost: -9671
+Satisfied cnt:  186
+EQ: 238
+Currt: 1.09e+06
+ cost: -9344
+Satisfied cnt:  186
+EQ: 239
+Currt: 1.09e+06
+ cost: -8810
+Satisfied cnt:  188
+EQ: 240
+Currt: 1.09e+06
+ cost: -7344
+Satisfied cnt:  188
+EQ: 241
+Currt: 1.09e+06
+ cost: -4343
+Satisfied cnt:  191
+EQ: 242
+Currt: 1.09e+06
+ cost: -4342
+Satisfied cnt:  191
+EQ: 243
+Currt: 1.09e+06
+ cost: -4272
+Satisfied cnt:  192
+EQ: 244
+Currt: 1.09e+06
+ cost: -5738
+Satisfied cnt:  192
+EQ: 245
+Currt: 1.09e+06
+ cost: -6934
+Satisfied cnt:  190
+EQ: 246
+Currt: 1.09e+06
+ cost: -3468
+Satisfied cnt:  192
+EQ: 247
+Currt: 1.09e+06
+ cost: -3795
+Satisfied cnt:  192
+EQ: 248
+Currt: 1.09e+06
+ cost: -7261
+Satisfied cnt:  190
+EQ: 249
+Currt: 1.09e+06
+ cost: -6588
+Satisfied cnt:  191
+EQ: 250
+Currt: 1.09e+06
+ cost: -10054
+Satisfied cnt:  189
+EQ: 251
+Currt: 1.09e+06
+ cost: -9984
+Satisfied cnt:  190
+EQ: 252
+Currt: 1.09e+06
+ cost: -12450
+Satisfied cnt:  189
+EQ: 253
+Currt: 1.09e+06
+ cost: -11520
+Satisfied cnt:  189
+EQ: 254
+Currt: 1.09e+06
+ cost: -11521
+Satisfied cnt:  189
+EQ: 255
+Currt: 1.09e+06
+ cost: -8055
+Satisfied cnt:  191
+EQ: 256
+Currt: 1.09e+06
+ cost: -7242
+Satisfied cnt:  191
+EQ: 257
+Currt: 1.09e+06
+ cost: -5243
+Satisfied cnt:  193
+EQ: 258
+Currt: 1.09e+06
+ cost: -1244
+Satisfied cnt:  197
+EQ: 259
+Currt: 1.09e+06
+ cost: -314
+Satisfied cnt:  197
+EQ: 260
+Currt: 1.09e+06
+ cost: 3152
+Satisfied cnt:  199
+EQ: 261
+Currt: 1.09e+06
+ cost: -314
+Satisfied cnt:  197
+EQ: 262
+Currt: 1.09e+06
+ cost: -1313
+Satisfied cnt:  196
+EQ: 263
+Currt: 1.09e+06
+ cost: -2126
+Satisfied cnt:  196
+EQ: 264
+Currt: 1.09e+06
+ cost: -1127
+Satisfied cnt:  197
+EQ: 265
+Currt: 1.09e+06
+ cost: 872
+Satisfied cnt:  199
+EQ: 266
+Currt: 1.09e+06
+ cost: 4338
+Satisfied cnt:  201
+EQ: 267
+Currt: 1.09e+06
+ cost: 3339
+Satisfied cnt:  200
+EQ: 268
+Currt: 1.09e+06
+ cost: 3574
+Satisfied cnt:  200
+EQ: 269
+Currt: 1.09e+06
+ cost: 2575
+Satisfied cnt:  199
+EQ: 270
+Currt: 1.09e+06
+ cost: 3388
+Satisfied cnt:  199
+EQ: 271
+Currt: 1.09e+06
+ cost: 4854
+Satisfied cnt:  199
+EQ: 272
+Currt: 1.09e+06
+ cost: 2855
+Satisfied cnt:  197
+EQ: 273
+Currt: 1.09e+06
+ cost: 389
+Satisfied cnt:  196
+EQ: 274
+Currt: 1.09e+06
+ cost: 2855
+Satisfied cnt:  197
+EQ: 275
+Currt: 1.09e+06
+ cost: 389
+Satisfied cnt:  196
+EQ: 276
+Currt: 1.09e+06
+ cost: -1077
+Satisfied cnt:  196
+EQ: 277
+Currt: 1.09e+06
+ cost: -3076
+Satisfied cnt:  194
+EQ: 278
+Currt: 1.09e+06
+ cost: -4006
+Satisfied cnt:  194
+EQ: 279
+Currt: 1.09e+06
+ cost: -1540
+Satisfied cnt:  195
+EQ: 280
+Currt: 1.09e+06
+ cost: -1074
+Satisfied cnt:  194
+EQ: 281
+Currt: 1.09e+06
+ cost: -3075
+Satisfied cnt:  192
+EQ: 282
+Currt: 1.09e+06
+ cost: -6541
+Satisfied cnt:  190
+EQ: 283
+Currt: 1.09e+06
+ cost: -8007
+Satisfied cnt:  190
+EQ: 284
+Currt: 1.09e+06
+ cost: -8006
+Satisfied cnt:  190
+EQ: 285
+Currt: 1.09e+06
+ cost: -10726
+Satisfied cnt:  188
+EQ: 286
+Currt: 1.09e+06
+ cost: -10260
+Satisfied cnt:  187
+EQ: 287
+Currt: 1.09e+06
+ cost: -7794
+Satisfied cnt:  188
+EQ: 288
+Currt: 1.09e+06
+ cost: -12260
+Satisfied cnt:  185
+EQ: 289
+Currt: 1.09e+06
+ cost: -11796
+Satisfied cnt:  186
+EQ: 290
+Currt: 1.09e+06
+ cost: -9645
+Satisfied cnt:  188
+EQ: 291
+Currt: 1.09e+06
+ cost: -9125
+Satisfied cnt:  188
+EQ: 292
+Currt: 1.09e+06
+ cost: -11591
+Satisfied cnt:  187
+EQ: 293
+Currt: 1.09e+06
+ cost: -13742
+Satisfied cnt:  185
+EQ: 294
+Currt: 1.09e+06
+ cost: -14555
+Satisfied cnt:  185
+EQ: 295
+Currt: 1.09e+06
+ cost: -13556
+Satisfied cnt:  186
+EQ: 296
+Currt: 1.09e+06
+ cost: -11090
+Satisfied cnt:  187
+EQ: 297
+Currt: 1.09e+06
+ cost: -8894
+Satisfied cnt:  190
+EQ: 298
+Currt: 1.09e+06
+ cost: -7895
+Satisfied cnt:  191
+EQ: 299
+Currt: 1.09e+06
+ cost: -8429
+Satisfied cnt:  189
+EQ: 300
+Currt: 1.09e+06
+ cost: -14895
+Satisfied cnt:  184
+EQ: 301
+Currt: 1.09e+06
+ cost: -11429
+Satisfied cnt:  186
+EQ: 302
+Currt: 1.09e+06
+ cost: -8430
+Satisfied cnt:  189
+EQ: 303
+Currt: 1.09e+06
+ cost: -6431
+Satisfied cnt:  191
+EQ: 304
+Currt: 1.09e+06
+ cost: -7430
+Satisfied cnt:  190
+EQ: 305
+Currt: 1.09e+06
+ cost: -5431
+Satisfied cnt:  192
+EQ: 306
+Currt: 1.09e+06
+ cost: -4322
+Satisfied cnt:  193
+EQ: 307
+Currt: 1.09e+06
+ cost: -4842
+Satisfied cnt:  193
+EQ: 308
+Currt: 1.09e+06
+ cost: -1376
+Satisfied cnt:  195
+EQ: 309
+Currt: 1.09e+06
+ cost: -1049
+Satisfied cnt:  195
+EQ: 310
+Currt: 1.09e+06
+ cost: 417
+Satisfied cnt:  195
+EQ: 311
+Currt: 1.09e+06
+ cost: 2556
+Satisfied cnt:  196
+EQ: 312
+Currt: 1.09e+06
+ cost: -910
+Satisfied cnt:  194
+EQ: 313
+Currt: 1.09e+06
+ cost: -2376
+Satisfied cnt:  194
+EQ: 314
+Currt: 1.09e+06
+ cost: -3375
+Satisfied cnt:  193
+EQ: 315
+Currt: 1.09e+06
+ cost: 91
+Satisfied cnt:  195
+EQ: 316
+Currt: 1.09e+06
+ cost: -1908
+Satisfied cnt:  193
+EQ: 317
+Currt: 1.09e+06
+ cost: 93
+Satisfied cnt:  195
+EQ: 318
+Currt: 1.09e+06
+ cost: -1373
+Satisfied cnt:  195
+EQ: 319
+Currt: 1.09e+06
+ cost: 93
+Satisfied cnt:  195
+EQ: 320
+Currt: 1.09e+06
+ cost: -2373
+Satisfied cnt:  194
+EQ: 321
+Currt: 1.09e+06
+ cost: -4839
+Satisfied cnt:  193
+EQ: 322
+Currt: 1.09e+06
+ cost: -6838
+Satisfied cnt:  191
+EQ: 323
+Currt: 1.09e+06
+ cost: -5839
+Satisfied cnt:  192
+EQ: 324
+Currt: 1.09e+06
+ cost: -3373
+Satisfied cnt:  193
+EQ: 325
+Currt: 1.09e+06
+ cost: -2443
+Satisfied cnt:  193
+EQ: 326
+Currt: 1.09e+06
+ cost: -4442
+Satisfied cnt:  191
+EQ: 327
+Currt: 1.09e+06
+ cost: -7908
+Satisfied cnt:  189
+EQ: 328
+Currt: 1.09e+06
+ cost: -9907
+Satisfied cnt:  187
+EQ: 329
+Currt: 1.09e+06
+ cost: -7441
+Satisfied cnt:  188
+EQ: 330
+Currt: 1.09e+06
+ cost: -3975
+Satisfied cnt:  190
+EQ: 331
+Currt: 1.09e+06
+ cost: -6441
+Satisfied cnt:  189
+EQ: 332
+Currt: 1.09e+06
+ cost: -8907
+Satisfied cnt:  188
+EQ: 333
+Currt: 1.09e+06
+ cost: -8371
+Satisfied cnt:  188
+EQ: 334
+Currt: 1.09e+06
+ cost: -5372
+Satisfied cnt:  191
+EQ: 335
+Currt: 1.09e+06
+ cost: -4373
+Satisfied cnt:  192
+EQ: 336
+Currt: 1.09e+06
+ cost: -1907
+Satisfied cnt:  193
+EQ: 337
+Currt: 1.09e+06
+ cost: -3094
+Satisfied cnt:  191
+EQ: 338
+Currt: 1.09e+06
+ cost: -5228
+Satisfied cnt:  189
+EQ: 339
+Currt: 1.09e+06
+ cost: -5764
+Satisfied cnt:  189
+EQ: 340
+Currt: 1.09e+06
+ cost: -7873
+Satisfied cnt:  187
+EQ: 341
+Currt: 1.09e+06
+ cost: -9819
+Satisfied cnt:  186
+EQ: 342
+Currt: 1.09e+06
+ cost: -7818
+Satisfied cnt:  188
+EQ: 343
+Currt: 1.09e+06
+ cost: -4352
+Satisfied cnt:  190
+EQ: 344
+Currt: 1.09e+06
+ cost: -4243
+Satisfied cnt:  190
+EQ: 345
+Currt: 1.09e+06
+ cost: -8709
+Satisfied cnt:  187
+EQ: 346
+Currt: 1.09e+06
+ cost: -8189
+Satisfied cnt:  187
+EQ: 347
+Currt: 1.09e+06
+ cost: -9188
+Satisfied cnt:  186
+EQ: 348
+Currt: 1.09e+06
+ cost: -12189
+Satisfied cnt:  183
+EQ: 349
+Currt: 1.09e+06
+ cost: -12298
+Satisfied cnt:  183
+EQ: 350
+Currt: 1.09e+06
+ cost: -11578
+Satisfied cnt:  183
+EQ: 351
+Currt: 1.09e+06
+ cost: -4112
+Satisfied cnt:  189
+EQ: 352
+Currt: 1.09e+06
+ cost: -2111
+Satisfied cnt:  191
+EQ: 353
+Currt: 1.09e+06
+ cost: -4112
+Satisfied cnt:  189
+EQ: 354
+Currt: 1.09e+06
+ cost: 3354
+Satisfied cnt:  195
+EQ: 355
+Currt: 1.09e+06
+ cost: 355
+Satisfied cnt:  192
+EQ: 356
+Currt: 1.09e+06
+ cost: -5111
+Satisfied cnt:  188
+EQ: 357
+Currt: 1.09e+06
+ cost: -6110
+Satisfied cnt:  187
+EQ: 358
+Currt: 1.09e+06
+ cost: -6644
+Satisfied cnt:  185
+EQ: 359
+Currt: 1.09e+06
+ cost: -8110
+Satisfied cnt:  185
+EQ: 360
+Currt: 1.09e+06
+ cost: -8111
+Satisfied cnt:  185
+EQ: 361
+Currt: 1.09e+06
+ cost: -14577
+Satisfied cnt:  180
+EQ: 362
+Currt: 1.09e+06
+ cost: -16043
+Satisfied cnt:  180
+EQ: 363
+Currt: 1.09e+06
+ cost: -12044
+Satisfied cnt:  184
+EQ: 364
+Currt: 1.09e+06
+ cost: -11974
+Satisfied cnt:  185
+EQ: 365
+Currt: 1.09e+06
+ cost: -5508
+Satisfied cnt:  190
+EQ: 366
+Currt: 1.09e+06
+ cost: -7507
+Satisfied cnt:  188
+EQ: 367
+Currt: 1.09e+06
+ cost: -10180
+Satisfied cnt:  185
+EQ: 368
+Currt: 1.09e+06
+ cost: -10179
+Satisfied cnt:  185
+EQ: 369
+Currt: 1.09e+06
+ cost: -12645
+Satisfied cnt:  184
+EQ: 370
+Currt: 1.09e+06
+ cost: -10179
+Satisfied cnt:  185
+EQ: 371
+Currt: 1.09e+06
+ cost: -13494
+Satisfied cnt:  183
+EQ: 372
+Currt: 1.09e+06
+ cost: -13960
+Satisfied cnt:  184
+EQ: 373
+Currt: 1.09e+06
+ cost: -15426
+Satisfied cnt:  184
+EQ: 374
+Currt: 1.09e+06
+ cost: -17892
+Satisfied cnt:  183
+EQ: 375
+Currt: 1.09e+06
+ cost: -16893
+Satisfied cnt:  184
+EQ: 376
+Currt: 1.09e+06
+ cost: -15578
+Satisfied cnt:  184
+EQ: 377
+Currt: 1.09e+06
+ cost: -13632
+Satisfied cnt:  185
+EQ: 378
+Currt: 1.09e+06
+ cost: -12166
+Satisfied cnt:  185
+EQ: 379
+Currt: 1.09e+06
+ cost: -11165
+Satisfied cnt:  186
+EQ: 380
+Currt: 1.09e+06
+ cost: -10056
+Satisfied cnt:  187
+EQ: 381
+Currt: 1.09e+06
+ cost: -9776
+Satisfied cnt:  188
+EQ: 382
+Currt: 1.09e+06
+ cost: -7775
+Satisfied cnt:  190
+EQ: 383
+Currt: 1.09e+06
+ cost: -9776
+Satisfied cnt:  188
+EQ: 384
+Currt: 1.09e+06
+ cost: -12242
+Satisfied cnt:  187
+EQ: 385
+Currt: 1.09e+06
+ cost: -17708
+Satisfied cnt:  183
+EQ: 386
+Currt: 1.09e+06
+ cost: -23174
+Satisfied cnt:  179
+EQ: 387
+Currt: 1.09e+06
+ cost: -20173
+Satisfied cnt:  182
+EQ: 388
+Currt: 1.09e+06
+ cost: -22174
+Satisfied cnt:  180
+EQ: 389
+Currt: 1.09e+06
+ cost: -23489
+Satisfied cnt:  180
+EQ: 390
+Currt: 1.09e+06
+ cost: -24009
+Satisfied cnt:  180
+EQ: 391
+Currt: 1.09e+06
+ cost: -23489
+Satisfied cnt:  180
+EQ: 392
+Currt: 1.09e+06
+ cost: -23023
+Satisfied cnt:  179
+EQ: 393
+Currt: 1.09e+06
+ cost: -24953
+Satisfied cnt:  178
+EQ: 394
+Currt: 1.09e+06
+ cost: -21417
+Satisfied cnt:  181
+EQ: 395
+Currt: 1.09e+06
+ cost: -20556
+Satisfied cnt:  183
+EQ: 396
+Currt: 1.09e+06
+ cost: -23665
+Satisfied cnt:  180
+EQ: 397
+Currt: 1.09e+06
+ cost: -19199
+Satisfied cnt:  183
+EQ: 398
+Currt: 1.09e+06
+ cost: -16434
+Satisfied cnt:  186
+EQ: 399
+Currt: 1.09e+06
+ cost: -16433
+Satisfied cnt:  186
+EQ: 400
+Currt: 1.09e+06
+ cost: -15967
+Satisfied cnt:  185
+EQ: 401
+Currt: 1.09e+06
+ cost: -9501
+Satisfied cnt:  190
+EQ: 402
+Currt: 1.09e+06
+ cost: -10967
+Satisfied cnt:  190
+EQ: 403
+Currt: 1.09e+06
+ cost: -12968
+Satisfied cnt:  188
+EQ: 404
+Currt: 1.09e+06
+ cost: -13434
+Satisfied cnt:  189
+EQ: 405
+Currt: 1.09e+06
+ cost: -12968
+Satisfied cnt:  188
+EQ: 406
+Currt: 1.09e+06
+ cost: -12502
+Satisfied cnt:  187
+EQ: 407
+Currt: 1.09e+06
+ cost: -14363
+Satisfied cnt:  184
+EQ: 408
+Currt: 1.09e+06
+ cost: -13829
+Satisfied cnt:  186
+EQ: 409
+Currt: 1.09e+06
+ cost: -14363
+Satisfied cnt:  184
+EQ: 410
+Currt: 1.09e+06
+ cost: -13829
+Satisfied cnt:  186
+EQ: 411
+Currt: 1.09e+06
+ cost: -14678
+Satisfied cnt:  185
+EQ: 412
+Currt: 1.09e+06
+ cost: -12212
+Satisfied cnt:  186
+EQ: 413
+Currt: 1.09e+06
+ cost: -10213
+Satisfied cnt:  188
+EQ: 414
+Currt: 1.09e+06
+ cost: -10679
+Satisfied cnt:  189
+EQ: 415
+Currt: 1.09e+06
+ cost: -13145
+Satisfied cnt:  188
+EQ: 416
+Currt: 1.09e+06
+ cost: -10679
+Satisfied cnt:  189
+EQ: 417
+Currt: 1.09e+06
+ cost: -12145
+Satisfied cnt:  189
+EQ: 418
+Currt: 1.09e+06
+ cost: -12472
+Satisfied cnt:  189
+EQ: 419
+Currt: 1.09e+06
+ cost: -10006
+Satisfied cnt:  190
+EQ: 420
+Currt: 1.09e+06
+ cost: -10472
+Satisfied cnt:  191
+EQ: 421
+Currt: 1.09e+06
+ cost: -9006
+Satisfied cnt:  191
+EQ: 422
+Currt: 1.09e+06
+ cost: -11472
+Satisfied cnt:  190
+EQ: 423
+Currt: 1.09e+06
+ cost: -9699
+Satisfied cnt:  192
+EQ: 424
+Currt: 1.09e+06
+ cost: -8700
+Satisfied cnt:  193
+EQ: 425
+Currt: 1.09e+06
+ cost: -7770
+Satisfied cnt:  193
+EQ: 426
+Currt: 1.09e+06
+ cost: -8700
+Satisfied cnt:  193
+EQ: 427
+Currt: 1.09e+06
+ cost: -7385
+Satisfied cnt:  193
+EQ: 428
+Currt: 1.09e+06
+ cost: -4919
+Satisfied cnt:  194
+EQ: 429
+Currt: 1.09e+06
+ cost: -6234
+Satisfied cnt:  194
+EQ: 430
+Currt: 1.09e+06
+ cost: -9700
+Satisfied cnt:  192
+EQ: 431
+Currt: 1.09e+06
+ cost: -10839
+Satisfied cnt:  192
+EQ: 432
+Currt: 1.09e+06
+ cost: -10839
+Satisfied cnt:  192
+EQ: 433
+Currt: 1.09e+06
+ cost: -12305
+Satisfied cnt:  192
+EQ: 434
+Currt: 1.09e+06
+ cost: -13771
+Satisfied cnt:  192
+EQ: 435
+Currt: 1.09e+06
+ cost: -15307
+Satisfied cnt:  191
+EQ: 436
+Currt: 1.09e+06
+ cost: -17773
+Satisfied cnt:  190
+EQ: 437
+Currt: 1.09e+06
+ cost: -16307
+Satisfied cnt:  190
+EQ: 438
+Currt: 1.09e+06
+ cost: -15841
+Satisfied cnt:  189
+EQ: 439
+Currt: 1.09e+06
+ cost: -14702
+Satisfied cnt:  189
+EQ: 440
+Currt: 1.09e+06
+ cost: -16648
+Satisfied cnt:  188
+EQ: 441
+Currt: 1.09e+06
+ cost: -15649
+Satisfied cnt:  189
+EQ: 442
+Currt: 1.09e+06
+ cost: -17788
+Satisfied cnt:  188
+EQ: 443
+Currt: 1.09e+06
+ cost: -16322
+Satisfied cnt:  188
+EQ: 444
+Currt: 1.09e+06
+ cost: -9856
+Satisfied cnt:  193
+EQ: 445
+Currt: 1.09e+06
+ cost: -11857
+Satisfied cnt:  191
+EQ: 446
+Currt: 1.09e+06
+ cost: -9858
+Satisfied cnt:  193
+EQ: 447
+Currt: 1.09e+06
+ cost: -11857
+Satisfied cnt:  191
+EQ: 448
+Currt: 1.09e+06
+ cost: -14323
+Satisfied cnt:  190
+EQ: 449
+Currt: 1.09e+06
+ cost: -10857
+Satisfied cnt:  192
+EQ: 450
+Currt: 1.09e+06
+ cost: -8856
+Satisfied cnt:  194
+EQ: 451
+Currt: 1.09e+06
+ cost: -6390
+Satisfied cnt:  195
+EQ: 452
+Currt: 1.09e+06
+ cost: -4251
+Satisfied cnt:  196
+EQ: 453
+Currt: 1.09e+06
+ cost: -785
+Satisfied cnt:  198
+EQ: 454
+Currt: 1.09e+06
+ cost: -2358
+Satisfied cnt:  196
+EQ: 455
+Currt: 1.09e+06
+ cost: -6824
+Satisfied cnt:  193
+EQ: 456
+Currt: 1.09e+06
+ cost: -6288
+Satisfied cnt:  193
+EQ: 457
+Currt: 1.09e+06
+ cost: -6287
+Satisfied cnt:  193
+EQ: 458
+Currt: 1.09e+06
+ cost: -7753
+Satisfied cnt:  193
+EQ: 459
+Currt: 1.09e+06
+ cost: -8752
+Satisfied cnt:  192
+EQ: 460
+Currt: 1.09e+06
+ cost: -3753
+Satisfied cnt:  197
+EQ: 461
+Currt: 1.09e+06
+ cost: -6644
+Satisfied cnt:  194
+EQ: 462
+Currt: 1.09e+06
+ cost: -5178
+Satisfied cnt:  194
+EQ: 463
+Currt: 1.09e+06
+ cost: -1712
+Satisfied cnt:  196
+EQ: 464
+Currt: 1.09e+06
+ cost: -5711
+Satisfied cnt:  192
+EQ: 465
+Currt: 1.09e+06
+ cost: -6710
+Satisfied cnt:  191
+EQ: 466
+Currt: 1.09e+06
+ cost: -4990
+Satisfied cnt:  192
+EQ: 467
+Currt: 1.09e+06
+ cost: -2991
+Satisfied cnt:  194
+EQ: 468
+Currt: 1.09e+06
+ cost: -6457
+Satisfied cnt:  192
+EQ: 469
+Currt: 1.09e+06
+ cost: -5130
+Satisfied cnt:  193
+EQ: 470
+Currt: 1.09e+06
+ cost: -7131
+Satisfied cnt:  191
+EQ: 471
+Currt: 1.09e+06
+ cost: -9851
+Satisfied cnt:  189
+EQ: 472
+Currt: 1.09e+06
+ cost: -10387
+Satisfied cnt:  189
+EQ: 473
+Currt: 1.09e+06
+ cost: -12853
+Satisfied cnt:  188
+EQ: 474
+Currt: 1.09e+06
+ cost: -11319
+Satisfied cnt:  191
+EQ: 475
+Currt: 1.09e+06
+ cost: -12785
+Satisfied cnt:  191
+EQ: 476
+Currt: 1.09e+06
+ cost: -15251
+Satisfied cnt:  190
+EQ: 477
+Currt: 1.09e+06
+ cost: -14321
+Satisfied cnt:  190
+EQ: 478
+Currt: 1.09e+06
+ cost: -10855
+Satisfied cnt:  192
+EQ: 479
+Currt: 1.09e+06
+ cost: -13182
+Satisfied cnt:  190
+EQ: 480
+Currt: 1.09e+06
+ cost: -14648
+Satisfied cnt:  190
+EQ: 481
+Currt: 1.09e+06
+ cost: -14649
+Satisfied cnt:  190
+EQ: 482
+Currt: 1.09e+06
+ cost: -14719
+Satisfied cnt:  189
+EQ: 483
+Currt: 1.09e+06
+ cost: -17718
+Satisfied cnt:  186
+EQ: 484
+Currt: 1.09e+06
+ cost: -16827
+Satisfied cnt:  187
+EQ: 485
+Currt: 1.09e+06
+ cost: -14361
+Satisfied cnt:  188
+EQ: 486
+Currt: 1.09e+06
+ cost: -13360
+Satisfied cnt:  189
+EQ: 487
+Currt: 1.09e+06
+ cost: -15826
+Satisfied cnt:  188
+EQ: 488
+Currt: 1.09e+06
+ cost: -17292
+Satisfied cnt:  188
+EQ: 489
+Currt: 1.09e+06
+ cost: -19291
+Satisfied cnt:  186
+EQ: 490
+Currt: 1.09e+06
+ cost: -18345
+Satisfied cnt:  186
+EQ: 491
+Currt: 1.09e+06
+ cost: -14346
+Satisfied cnt:  190
+EQ: 492
+Currt: 1.09e+06
+ cost: -13880
+Satisfied cnt:  189
+EQ: 493
+Currt: 1.09e+06
+ cost: -11879
+Satisfied cnt:  191
+EQ: 494
+Currt: 1.09e+06
+ cost: -9878
+Satisfied cnt:  193
+EQ: 495
+Currt: 1.09e+06
+ cost: -10412
+Satisfied cnt:  191
+EQ: 496
+Currt: 1.09e+06
+ cost: -13177
+Satisfied cnt:  188
+EQ: 497
+Currt: 1.09e+06
+ cost: -14123
+Satisfied cnt:  188
+EQ: 498
+Currt: 1.09e+06
+ cost: -15014
+Satisfied cnt:  187
+EQ: 499
+Currt: 1.09e+06
+ cost: -12249
+Satisfied cnt:  190
+COOL
+EQ: 0
+Currt: 1.0028e+06
+ cost: -11303
+Satisfied cnt:  190
+EQ: 1
+Currt: 1.0028e+06
+ cost: -10823
+Satisfied cnt:  191
+EQ: 2
+Currt: 1.0028e+06
+ cost: -12250
+Satisfied cnt:  190
+EQ: 3
+Currt: 1.0028e+06
+ cost: -11730
+Satisfied cnt:  190
+EQ: 4
+Currt: 1.0028e+06
+ cost: -9415
+Satisfied cnt:  191
+EQ: 5
+Currt: 1.0028e+06
+ cost: -8611
+Satisfied cnt:  191
+EQ: 6
+Currt: 1.0028e+06
+ cost: -9557
+Satisfied cnt:  191
+EQ: 7
+Currt: 1.0028e+06
+ cost: -8091
+Satisfied cnt:  191
+EQ: 8
+Currt: 1.0028e+06
+ cost: -10406
+Satisfied cnt:  190
+EQ: 9
+Currt: 1.0028e+06
+ cost: -6407
+Satisfied cnt:  194
+EQ: 10
+Currt: 1.0028e+06
+ cost: -6516
+Satisfied cnt:  194
+EQ: 11
+Currt: 1.0028e+06
+ cost: -7655
+Satisfied cnt:  194
+EQ: 12
+Currt: 1.0028e+06
+ cost: -7656
+Satisfied cnt:  194
+EQ: 13
+Currt: 1.0028e+06
+ cost: -6190
+Satisfied cnt:  194
+EQ: 14
+Currt: 1.0028e+06
+ cost: -6963
+Satisfied cnt:  193
+EQ: 15
+Currt: 1.0028e+06
+ cost: -6964
+Satisfied cnt:  193
+EQ: 16
+Currt: 1.0028e+06
+ cost: -8430
+Satisfied cnt:  193
+EQ: 17
+Currt: 1.0028e+06
+ cost: -9429
+Satisfied cnt:  192
+EQ: 18
+Currt: 1.0028e+06
+ cost: -6483
+Satisfied cnt:  194
+EQ: 19
+Currt: 1.0028e+06
+ cost: -5017
+Satisfied cnt:  194
+EQ: 20
+Currt: 1.0028e+06
+ cost: -9016
+Satisfied cnt:  190
+EQ: 21
+Currt: 1.0028e+06
+ cost: -8017
+Satisfied cnt:  191
+EQ: 22
+Currt: 1.0028e+06
+ cost: -6244
+Satisfied cnt:  193
+EQ: 23
+Currt: 1.0028e+06
+ cost: -778
+Satisfied cnt:  197
+EQ: 24
+Currt: 1.0028e+06
+ cost: -1298
+Satisfied cnt:  197
+EQ: 25
+Currt: 1.0028e+06
+ cost: -2762
+Satisfied cnt:  195
+EQ: 26
+Currt: 1.0028e+06
+ cost: -4042
+Satisfied cnt:  193
+EQ: 27
+Currt: 1.0028e+06
+ cost: -4043
+Satisfied cnt:  193
+EQ: 28
+Currt: 1.0028e+06
+ cost: -6509
+Satisfied cnt:  192
+EQ: 29
+Currt: 1.0028e+06
+ cost: -11975
+Satisfied cnt:  188
+EQ: 30
+Currt: 1.0028e+06
+ cost: -8509
+Satisfied cnt:  190
+EQ: 31
+Currt: 1.0028e+06
+ cost: -9400
+Satisfied cnt:  189
+EQ: 32
+Currt: 1.0028e+06
+ cost: -10934
+Satisfied cnt:  186
+EQ: 33
+Currt: 1.0028e+06
+ cost: -8935
+Satisfied cnt:  188
+EQ: 34
+Currt: 1.0028e+06
+ cost: -8865
+Satisfied cnt:  189
+EQ: 35
+Currt: 1.0028e+06
+ cost: -7864
+Satisfied cnt:  190
+EQ: 36
+Currt: 1.0028e+06
+ cost: -9191
+Satisfied cnt:  189
+EQ: 37
+Currt: 1.0028e+06
+ cost: -6725
+Satisfied cnt:  190
+EQ: 38
+Currt: 1.0028e+06
+ cost: -4259
+Satisfied cnt:  191
+EQ: 39
+Currt: 1.0028e+06
+ cost: 207
+Satisfied cnt:  194
+EQ: 40
+Currt: 1.0028e+06
+ cost: -1794
+Satisfied cnt:  192
+EQ: 41
+Currt: 1.0028e+06
+ cost: 1672
+Satisfied cnt:  194
+EQ: 42
+Currt: 1.0028e+06
+ cost: 1673
+Satisfied cnt:  194
+EQ: 43
+Currt: 1.0028e+06
+ cost: 1207
+Satisfied cnt:  195
+EQ: 44
+Currt: 1.0028e+06
+ cost: 2534
+Satisfied cnt:  196
+EQ: 45
+Currt: 1.0028e+06
+ cost: -932
+Satisfied cnt:  194
+EQ: 46
+Currt: 1.0028e+06
+ cost: 1138
+Satisfied cnt:  197
+EQ: 47
+Currt: 1.0028e+06
+ cost: 277
+Satisfied cnt:  195
+EQ: 48
+Currt: 1.0028e+06
+ cost: -443
+Satisfied cnt:  195
+EQ: 49
+Currt: 1.0028e+06
+ cost: -1444
+Satisfied cnt:  194
+EQ: 50
+Currt: 1.0028e+06
+ cost: -1445
+Satisfied cnt:  194
+EQ: 51
+Currt: 1.0028e+06
+ cost: -3911
+Satisfied cnt:  193
+EQ: 52
+Currt: 1.0028e+06
+ cost: -4377
+Satisfied cnt:  194
+EQ: 53
+Currt: 1.0028e+06
+ cost: -2376
+Satisfied cnt:  196
+EQ: 54
+Currt: 1.0028e+06
+ cost: -4322
+Satisfied cnt:  195
+EQ: 55
+Currt: 1.0028e+06
+ cost: -6788
+Satisfied cnt:  194
+EQ: 56
+Currt: 1.0028e+06
+ cost: -6939
+Satisfied cnt:  194
+EQ: 57
+Currt: 1.0028e+06
+ cost: -6940
+Satisfied cnt:  194
+EQ: 58
+Currt: 1.0028e+06
+ cost: -6476
+Satisfied cnt:  195
+EQ: 59
+Currt: 1.0028e+06
+ cost: -8942
+Satisfied cnt:  194
+EQ: 60
+Currt: 1.0028e+06
+ cost: -11408
+Satisfied cnt:  193
+EQ: 61
+Currt: 1.0028e+06
+ cost: -12735
+Satisfied cnt:  192
+EQ: 62
+Currt: 1.0028e+06
+ cost: -10269
+Satisfied cnt:  193
+EQ: 63
+Currt: 1.0028e+06
+ cost: -8270
+Satisfied cnt:  195
+EQ: 64
+Currt: 1.0028e+06
+ cost: -5804
+Satisfied cnt:  196
+EQ: 65
+Currt: 1.0028e+06
+ cost: -6270
+Satisfied cnt:  197
+EQ: 66
+Currt: 1.0028e+06
+ cost: -4804
+Satisfied cnt:  197
+EQ: 67
+Currt: 1.0028e+06
+ cost: -3617
+Satisfied cnt:  199
+EQ: 68
+Currt: 1.0028e+06
+ cost: -6421
+Satisfied cnt:  197
+EQ: 69
+Currt: 1.0028e+06
+ cost: -8555
+Satisfied cnt:  195
+EQ: 70
+Currt: 1.0028e+06
+ cost: -6835
+Satisfied cnt:  196
+EQ: 71
+Currt: 1.0028e+06
+ cost: -8834
+Satisfied cnt:  194
+EQ: 72
+Currt: 1.0028e+06
+ cost: -5368
+Satisfied cnt:  196
+EQ: 73
+Currt: 1.0028e+06
+ cost: -5555
+Satisfied cnt:  195
+EQ: 74
+Currt: 1.0028e+06
+ cost: -3089
+Satisfied cnt:  196
+EQ: 75
+Currt: 1.0028e+06
+ cost: -5555
+Satisfied cnt:  195
+EQ: 76
+Currt: 1.0028e+06
+ cost: -3556
+Satisfied cnt:  197
+EQ: 77
+Currt: 1.0028e+06
+ cost: -2229
+Satisfied cnt:  198
+EQ: 78
+Currt: 1.0028e+06
+ cost: -2695
+Satisfied cnt:  199
+EQ: 79
+Currt: 1.0028e+06
+ cost: 196
+Satisfied cnt:  202
+EQ: 80
+Currt: 1.0028e+06
+ cost: -1803
+Satisfied cnt:  200
+EQ: 81
+Currt: 1.0028e+06
+ cost: -2616
+Satisfied cnt:  200
+EQ: 82
+Currt: 1.0028e+06
+ cost: -1615
+Satisfied cnt:  201
+EQ: 83
+Currt: 1.0028e+06
+ cost: -1685
+Satisfied cnt:  200
+EQ: 84
+Currt: 1.0028e+06
+ cost: -5151
+Satisfied cnt:  198
+EQ: 85
+Currt: 1.0028e+06
+ cost: -6152
+Satisfied cnt:  197
+EQ: 86
+Currt: 1.0028e+06
+ cost: -9618
+Satisfied cnt:  195
+EQ: 87
+Currt: 1.0028e+06
+ cost: -12619
+Satisfied cnt:  192
+EQ: 88
+Currt: 1.0028e+06
+ cost: -15618
+Satisfied cnt:  189
+EQ: 89
+Currt: 1.0028e+06
+ cost: -12619
+Satisfied cnt:  192
+EQ: 90
+Currt: 1.0028e+06
+ cost: -12689
+Satisfied cnt:  191
+EQ: 91
+Currt: 1.0028e+06
+ cost: -15155
+Satisfied cnt:  190
+EQ: 92
+Currt: 1.0028e+06
+ cost: -13004
+Satisfied cnt:  192
+EQ: 93
+Currt: 1.0028e+06
+ cost: -15769
+Satisfied cnt:  189
+EQ: 94
+Currt: 1.0028e+06
+ cost: -17542
+Satisfied cnt:  187
+EQ: 95
+Currt: 1.0028e+06
+ cost: -13076
+Satisfied cnt:  190
+EQ: 96
+Currt: 1.0028e+06
+ cost: -15075
+Satisfied cnt:  188
+EQ: 97
+Currt: 1.0028e+06
+ cost: -15539
+Satisfied cnt:  187
+EQ: 98
+Currt: 1.0028e+06
+ cost: -13540
+Satisfied cnt:  189
+EQ: 99
+Currt: 1.0028e+06
+ cost: -13470
+Satisfied cnt:  190
+EQ: 100
+Currt: 1.0028e+06
+ cost: -11471
+Satisfied cnt:  192
+EQ: 101
+Currt: 1.0028e+06
+ cost: -8156
+Satisfied cnt:  194
+EQ: 102
+Currt: 1.0028e+06
+ cost: -9155
+Satisfied cnt:  193
+EQ: 103
+Currt: 1.0028e+06
+ cost: -7689
+Satisfied cnt:  193
+EQ: 104
+Currt: 1.0028e+06
+ cost: -5223
+Satisfied cnt:  194
+EQ: 105
+Currt: 1.0028e+06
+ cost: -3703
+Satisfied cnt:  195
+EQ: 106
+Currt: 1.0028e+06
+ cost: -4704
+Satisfied cnt:  194
+EQ: 107
+Currt: 1.0028e+06
+ cost: -6703
+Satisfied cnt:  192
+EQ: 108
+Currt: 1.0028e+06
+ cost: -4899
+Satisfied cnt:  193
+EQ: 109
+Currt: 1.0028e+06
+ cost: -6572
+Satisfied cnt:  191
+EQ: 110
+Currt: 1.0028e+06
+ cost: -5502
+Satisfied cnt:  193
+EQ: 111
+Currt: 1.0028e+06
+ cost: -4503
+Satisfied cnt:  194
+EQ: 112
+Currt: 1.0028e+06
+ cost: -6307
+Satisfied cnt:  193
+EQ: 113
+Currt: 1.0028e+06
+ cost: -8773
+Satisfied cnt:  192
+EQ: 114
+Currt: 1.0028e+06
+ cost: -9772
+Satisfied cnt:  191
+EQ: 115
+Currt: 1.0028e+06
+ cost: -9492
+Satisfied cnt:  192
+EQ: 116
+Currt: 1.0028e+06
+ cost: -12491
+Satisfied cnt:  189
+EQ: 117
+Currt: 1.0028e+06
+ cost: -13642
+Satisfied cnt:  188
+EQ: 118
+Currt: 1.0028e+06
+ cost: -11176
+Satisfied cnt:  189
+EQ: 119
+Currt: 1.0028e+06
+ cost: -9456
+Satisfied cnt:  190
+EQ: 120
+Currt: 1.0028e+06
+ cost: -5990
+Satisfied cnt:  192
+EQ: 121
+Currt: 1.0028e+06
+ cost: -1225
+Satisfied cnt:  197
+EQ: 122
+Currt: 1.0028e+06
+ cost: -3540
+Satisfied cnt:  196
+EQ: 123
+Currt: 1.0028e+06
+ cost: -3539
+Satisfied cnt:  196
+EQ: 124
+Currt: 1.0028e+06
+ cost: -10005
+Satisfied cnt:  191
+EQ: 125
+Currt: 1.0028e+06
+ cost: -6332
+Satisfied cnt:  195
+EQ: 126
+Currt: 1.0028e+06
+ cost: -5333
+Satisfied cnt:  196
+EQ: 127
+Currt: 1.0028e+06
+ cost: -5799
+Satisfied cnt:  197
+EQ: 128
+Currt: 1.0028e+06
+ cost: -5995
+Satisfied cnt:  196
+EQ: 129
+Currt: 1.0028e+06
+ cost: -5996
+Satisfied cnt:  196
+EQ: 130
+Currt: 1.0028e+06
+ cost: -2530
+Satisfied cnt:  198
+EQ: 131
+Currt: 1.0028e+06
+ cost: -2531
+Satisfied cnt:  198
+EQ: 132
+Currt: 1.0028e+06
+ cost: -3397
+Satisfied cnt:  197
+EQ: 133
+Currt: 1.0028e+06
+ cost: -4201
+Satisfied cnt:  197
+EQ: 134
+Currt: 1.0028e+06
+ cost: -5874
+Satisfied cnt:  195
+EQ: 135
+Currt: 1.0028e+06
+ cost: -11340
+Satisfied cnt:  191
+EQ: 136
+Currt: 1.0028e+06
+ cost: -13339
+Satisfied cnt:  189
+EQ: 137
+Currt: 1.0028e+06
+ cost: -10873
+Satisfied cnt:  190
+EQ: 138
+Currt: 1.0028e+06
+ cost: -11739
+Satisfied cnt:  189
+EQ: 139
+Currt: 1.0028e+06
+ cost: -11926
+Satisfied cnt:  188
+EQ: 140
+Currt: 1.0028e+06
+ cost: -9460
+Satisfied cnt:  189
+EQ: 141
+Currt: 1.0028e+06
+ cost: -10459
+Satisfied cnt:  188
+EQ: 142
+Currt: 1.0028e+06
+ cost: -9686
+Satisfied cnt:  189
+EQ: 143
+Currt: 1.0028e+06
+ cost: -12152
+Satisfied cnt:  188
+EQ: 144
+Currt: 1.0028e+06
+ cost: -15618
+Satisfied cnt:  186
+EQ: 145
+Currt: 1.0028e+06
+ cost: -17467
+Satisfied cnt:  184
+EQ: 146
+Currt: 1.0028e+06
+ cost: -17001
+Satisfied cnt:  183
+EQ: 147
+Currt: 1.0028e+06
+ cost: -14535
+Satisfied cnt:  184
+EQ: 148
+Currt: 1.0028e+06
+ cost: -11069
+Satisfied cnt:  186
+EQ: 149
+Currt: 1.0028e+06
+ cost: -7603
+Satisfied cnt:  188
+EQ: 150
+Currt: 1.0028e+06
+ cost: -10602
+Satisfied cnt:  185
+EQ: 151
+Currt: 1.0028e+06
+ cost: -8068
+Satisfied cnt:  189
+EQ: 152
+Currt: 1.0028e+06
+ cost: -10534
+Satisfied cnt:  188
+EQ: 153
+Currt: 1.0028e+06
+ cost: -8535
+Satisfied cnt:  190
+EQ: 154
+Currt: 1.0028e+06
+ cost: -6605
+Satisfied cnt:  191
+EQ: 155
+Currt: 1.0028e+06
+ cost: -8139
+Satisfied cnt:  188
+EQ: 156
+Currt: 1.0028e+06
+ cost: -11138
+Satisfied cnt:  185
+EQ: 157
+Currt: 1.0028e+06
+ cost: -12137
+Satisfied cnt:  184
+EQ: 158
+Currt: 1.0028e+06
+ cost: -10671
+Satisfied cnt:  184
+EQ: 159
+Currt: 1.0028e+06
+ cost: -15137
+Satisfied cnt:  181
+EQ: 160
+Currt: 1.0028e+06
+ cost: -16657
+Satisfied cnt:  180
+EQ: 161
+Currt: 1.0028e+06
+ cost: -19656
+Satisfied cnt:  177
+EQ: 162
+Currt: 1.0028e+06
+ cost: -16657
+Satisfied cnt:  180
+EQ: 163
+Currt: 1.0028e+06
+ cost: -17123
+Satisfied cnt:  181
+EQ: 164
+Currt: 1.0028e+06
+ cost: -14936
+Satisfied cnt:  184
+EQ: 165
+Currt: 1.0028e+06
+ cost: -11470
+Satisfied cnt:  186
+EQ: 166
+Currt: 1.0028e+06
+ cost: -10666
+Satisfied cnt:  186
+EQ: 167
+Currt: 1.0028e+06
+ cost: -6667
+Satisfied cnt:  190
+EQ: 168
+Currt: 1.0028e+06
+ cost: -7666
+Satisfied cnt:  189
+EQ: 169
+Currt: 1.0028e+06
+ cost: -8439
+Satisfied cnt:  188
+EQ: 170
+Currt: 1.0028e+06
+ cost: -6440
+Satisfied cnt:  190
+EQ: 171
+Currt: 1.0028e+06
+ cost: -6160
+Satisfied cnt:  191
+EQ: 172
+Currt: 1.0028e+06
+ cost: -8347
+Satisfied cnt:  188
+EQ: 173
+Currt: 1.0028e+06
+ cost: -6574
+Satisfied cnt:  190
+EQ: 174
+Currt: 1.0028e+06
+ cost: -7575
+Satisfied cnt:  189
+EQ: 175
+Currt: 1.0028e+06
+ cost: -9574
+Satisfied cnt:  187
+EQ: 176
+Currt: 1.0028e+06
+ cost: -12040
+Satisfied cnt:  186
+EQ: 177
+Currt: 1.0028e+06
+ cost: -14506
+Satisfied cnt:  185
+EQ: 178
+Currt: 1.0028e+06
+ cost: -17972
+Satisfied cnt:  183
+EQ: 179
+Currt: 1.0028e+06
+ cost: -13971
+Satisfied cnt:  187
+EQ: 180
+Currt: 1.0028e+06
+ cost: -12025
+Satisfied cnt:  188
+EQ: 181
+Currt: 1.0028e+06
+ cost: -10026
+Satisfied cnt:  190
+EQ: 182
+Currt: 1.0028e+06
+ cost: -12492
+Satisfied cnt:  189
+EQ: 183
+Currt: 1.0028e+06
+ cost: -14958
+Satisfied cnt:  188
+EQ: 184
+Currt: 1.0028e+06
+ cost: -16492
+Satisfied cnt:  185
+EQ: 185
+Currt: 1.0028e+06
+ cost: -12026
+Satisfied cnt:  188
+EQ: 186
+Currt: 1.0028e+06
+ cost: -9027
+Satisfied cnt:  191
+EQ: 187
+Currt: 1.0028e+06
+ cost: -9493
+Satisfied cnt:  192
+EQ: 188
+Currt: 1.0028e+06
+ cost: -7306
+Satisfied cnt:  195
+EQ: 189
+Currt: 1.0028e+06
+ cost: -10307
+Satisfied cnt:  192
+EQ: 190
+Currt: 1.0028e+06
+ cost: -14441
+Satisfied cnt:  188
+EQ: 191
+Currt: 1.0028e+06
+ cost: -17440
+Satisfied cnt:  185
+EQ: 192
+Currt: 1.0028e+06
+ cost: -15920
+Satisfied cnt:  186
+EQ: 193
+Currt: 1.0028e+06
+ cost: -16386
+Satisfied cnt:  187
+EQ: 194
+Currt: 1.0028e+06
+ cost: -13920
+Satisfied cnt:  188
+EQ: 195
+Currt: 1.0028e+06
+ cost: -14059
+Satisfied cnt:  189
+EQ: 196
+Currt: 1.0028e+06
+ cost: -15058
+Satisfied cnt:  188
+EQ: 197
+Currt: 1.0028e+06
+ cost: -11949
+Satisfied cnt:  191
+EQ: 198
+Currt: 1.0028e+06
+ cost: -12950
+Satisfied cnt:  190
+EQ: 199
+Currt: 1.0028e+06
+ cost: -12484
+Satisfied cnt:  189
+EQ: 200
+Currt: 1.0028e+06
+ cost: -14004
+Satisfied cnt:  188
+EQ: 201
+Currt: 1.0028e+06
+ cost: -15003
+Satisfied cnt:  187
+EQ: 202
+Currt: 1.0028e+06
+ cost: -14154
+Satisfied cnt:  188
+EQ: 203
+Currt: 1.0028e+06
+ cost: -15434
+Satisfied cnt:  186
+EQ: 204
+Currt: 1.0028e+06
+ cost: -9968
+Satisfied cnt:  190
+EQ: 205
+Currt: 1.0028e+06
+ cost: -8295
+Satisfied cnt:  192
+EQ: 206
+Currt: 1.0028e+06
+ cost: -10761
+Satisfied cnt:  191
+EQ: 207
+Currt: 1.0028e+06
+ cost: -8831
+Satisfied cnt:  192
+EQ: 208
+Currt: 1.0028e+06
+ cost: -11297
+Satisfied cnt:  191
+EQ: 209
+Currt: 1.0028e+06
+ cost: -12298
+Satisfied cnt:  190
+EQ: 210
+Currt: 1.0028e+06
+ cost: -11625
+Satisfied cnt:  191
+EQ: 211
+Currt: 1.0028e+06
+ cost: -12159
+Satisfied cnt:  189
+EQ: 212
+Currt: 1.0028e+06
+ cost: -9160
+Satisfied cnt:  192
+EQ: 213
+Currt: 1.0028e+06
+ cost: -9880
+Satisfied cnt:  192
+EQ: 214
+Currt: 1.0028e+06
+ cost: -9879
+Satisfied cnt:  192
+EQ: 215
+Currt: 1.0028e+06
+ cost: -8413
+Satisfied cnt:  192
+EQ: 216
+Currt: 1.0028e+06
+ cost: -6412
+Satisfied cnt:  194
+EQ: 217
+Currt: 1.0028e+06
+ cost: -8521
+Satisfied cnt:  192
+EQ: 218
+Currt: 1.0028e+06
+ cost: -10520
+Satisfied cnt:  190
+EQ: 219
+Currt: 1.0028e+06
+ cost: -8411
+Satisfied cnt:  192
+EQ: 220
+Currt: 1.0028e+06
+ cost: -5945
+Satisfied cnt:  193
+EQ: 221
+Currt: 1.0028e+06
+ cost: -4630
+Satisfied cnt:  193
+EQ: 222
+Currt: 1.0028e+06
+ cost: -5164
+Satisfied cnt:  191
+EQ: 223
+Currt: 1.0028e+06
+ cost: -3737
+Satisfied cnt:  192
+EQ: 224
+Currt: 1.0028e+06
+ cost: -2271
+Satisfied cnt:  192
+EQ: 225
+Currt: 1.0028e+06
+ cost: -2944
+Satisfied cnt:  191
+EQ: 226
+Currt: 1.0028e+06
+ cost: -4371
+Satisfied cnt:  190
+EQ: 227
+Currt: 1.0028e+06
+ cost: -5905
+Satisfied cnt:  187
+EQ: 228
+Currt: 1.0028e+06
+ cost: -4835
+Satisfied cnt:  189
+EQ: 229
+Currt: 1.0028e+06
+ cost: -3408
+Satisfied cnt:  190
+EQ: 230
+Currt: 1.0028e+06
+ cost: -942
+Satisfied cnt:  191
+EQ: 231
+Currt: 1.0028e+06
+ cost: -4408
+Satisfied cnt:  189
+EQ: 232
+Currt: 1.0028e+06
+ cost: -6874
+Satisfied cnt:  188
+EQ: 233
+Currt: 1.0028e+06
+ cost: -5408
+Satisfied cnt:  188
+EQ: 234
+Currt: 1.0028e+06
+ cost: -3942
+Satisfied cnt:  188
+EQ: 235
+Currt: 1.0028e+06
+ cost: -2888
+Satisfied cnt:  190
+EQ: 236
+Currt: 1.0028e+06
+ cost: -5887
+Satisfied cnt:  187
+EQ: 237
+Currt: 1.0028e+06
+ cost: -8353
+Satisfied cnt:  186
+EQ: 238
+Currt: 1.0028e+06
+ cost: -6354
+Satisfied cnt:  188
+EQ: 239
+Currt: 1.0028e+06
+ cost: -5220
+Satisfied cnt:  189
+EQ: 240
+Currt: 1.0028e+06
+ cost: -6219
+Satisfied cnt:  188
+EQ: 241
+Currt: 1.0028e+06
+ cost: -5685
+Satisfied cnt:  190
+EQ: 242
+Currt: 1.0028e+06
+ cost: -8151
+Satisfied cnt:  189
+EQ: 243
+Currt: 1.0028e+06
+ cost: -9578
+Satisfied cnt:  188
+EQ: 244
+Currt: 1.0028e+06
+ cost: -9648
+Satisfied cnt:  187
+EQ: 245
+Currt: 1.0028e+06
+ cost: -6649
+Satisfied cnt:  190
+EQ: 246
+Currt: 1.0028e+06
+ cost: -5650
+Satisfied cnt:  191
+EQ: 247
+Currt: 1.0028e+06
+ cost: -6116
+Satisfied cnt:  192
+EQ: 248
+Currt: 1.0028e+06
+ cost: -4650
+Satisfied cnt:  192
+EQ: 249
+Currt: 1.0028e+06
+ cost: -5651
+Satisfied cnt:  191
+EQ: 250
+Currt: 1.0028e+06
+ cost: -3131
+Satisfied cnt:  193
+EQ: 251
+Currt: 1.0028e+06
+ cost: -3597
+Satisfied cnt:  194
+EQ: 252
+Currt: 1.0028e+06
+ cost: -2131
+Satisfied cnt:  194
+EQ: 253
+Currt: 1.0028e+06
+ cost: -3597
+Satisfied cnt:  194
+EQ: 254
+Currt: 1.0028e+06
+ cost: -3446
+Satisfied cnt:  194
+EQ: 255
+Currt: 1.0028e+06
+ cost: -7445
+Satisfied cnt:  190
+EQ: 256
+Currt: 1.0028e+06
+ cost: -8911
+Satisfied cnt:  190
+EQ: 257
+Currt: 1.0028e+06
+ cost: -10377
+Satisfied cnt:  190
+EQ: 258
+Currt: 1.0028e+06
+ cost: -9913
+Satisfied cnt:  191
+EQ: 259
+Currt: 1.0028e+06
+ cost: -10914
+Satisfied cnt:  190
+EQ: 260
+Currt: 1.0028e+06
+ cost: -11913
+Satisfied cnt:  189
+EQ: 261
+Currt: 1.0028e+06
+ cost: -11379
+Satisfied cnt:  191
+EQ: 262
+Currt: 1.0028e+06
+ cost: -10913
+Satisfied cnt:  190
+EQ: 263
+Currt: 1.0028e+06
+ cost: -9843
+Satisfied cnt:  192
+EQ: 264
+Currt: 1.0028e+06
+ cost: -7377
+Satisfied cnt:  193
+EQ: 265
+Currt: 1.0028e+06
+ cost: -8692
+Satisfied cnt:  193
+EQ: 266
+Currt: 1.0028e+06
+ cost: -10365
+Satisfied cnt:  191
+EQ: 267
+Currt: 1.0028e+06
+ cost: -7366
+Satisfied cnt:  194
+EQ: 268
+Currt: 1.0028e+06
+ cost: -10139
+Satisfied cnt:  191
+EQ: 269
+Currt: 1.0028e+06
+ cost: -7673
+Satisfied cnt:  192
+EQ: 270
+Currt: 1.0028e+06
+ cost: -9139
+Satisfied cnt:  192
+EQ: 271
+Currt: 1.0028e+06
+ cost: -8712
+Satisfied cnt:  192
+EQ: 272
+Currt: 1.0028e+06
+ cost: -9176
+Satisfied cnt:  191
+EQ: 273
+Currt: 1.0028e+06
+ cost: -8175
+Satisfied cnt:  192
+EQ: 274
+Currt: 1.0028e+06
+ cost: -7711
+Satisfied cnt:  193
+EQ: 275
+Currt: 1.0028e+06
+ cost: -4710
+Satisfied cnt:  196
+EQ: 276
+Currt: 1.0028e+06
+ cost: -6176
+Satisfied cnt:  196
+EQ: 277
+Currt: 1.0028e+06
+ cost: -9175
+Satisfied cnt:  193
+EQ: 278
+Currt: 1.0028e+06
+ cost: -12176
+Satisfied cnt:  190
+EQ: 279
+Currt: 1.0028e+06
+ cost: -14642
+Satisfied cnt:  189
+EQ: 280
+Currt: 1.0028e+06
+ cost: -15793
+Satisfied cnt:  188
+EQ: 281
+Currt: 1.0028e+06
+ cost: -18259
+Satisfied cnt:  187
+EQ: 282
+Currt: 1.0028e+06
+ cost: -17063
+Satisfied cnt:  189
+EQ: 283
+Currt: 1.0028e+06
+ cost: -14390
+Satisfied cnt:  192
+EQ: 284
+Currt: 1.0028e+06
+ cost: -11924
+Satisfied cnt:  193
+EQ: 285
+Currt: 1.0028e+06
+ cost: -12923
+Satisfied cnt:  192
+EQ: 286
+Currt: 1.0028e+06
+ cost: -14457
+Satisfied cnt:  189
+EQ: 287
+Currt: 1.0028e+06
+ cost: -11991
+Satisfied cnt:  190
+EQ: 288
+Currt: 1.0028e+06
+ cost: -12457
+Satisfied cnt:  191
+EQ: 289
+Currt: 1.0028e+06
+ cost: -15923
+Satisfied cnt:  189
+EQ: 290
+Currt: 1.0028e+06
+ cost: -17924
+Satisfied cnt:  187
+EQ: 291
+Currt: 1.0028e+06
+ cost: -15458
+Satisfied cnt:  188
+EQ: 292
+Currt: 1.0028e+06
+ cost: -14457
+Satisfied cnt:  189
+EQ: 293
+Currt: 1.0028e+06
+ cost: -11991
+Satisfied cnt:  190
+EQ: 294
+Currt: 1.0028e+06
+ cost: -10992
+Satisfied cnt:  191
+EQ: 295
+Currt: 1.0028e+06
+ cost: -13046
+Satisfied cnt:  188
+EQ: 296
+Currt: 1.0028e+06
+ cost: -9047
+Satisfied cnt:  192
+EQ: 297
+Currt: 1.0028e+06
+ cost: -11243
+Satisfied cnt:  189
+EQ: 298
+Currt: 1.0028e+06
+ cost: -15242
+Satisfied cnt:  185
+EQ: 299
+Currt: 1.0028e+06
+ cost: -13776
+Satisfied cnt:  185
+EQ: 300
+Currt: 1.0028e+06
+ cost: -14777
+Satisfied cnt:  184
+EQ: 301
+Currt: 1.0028e+06
+ cost: -16243
+Satisfied cnt:  184
+EQ: 302
+Currt: 1.0028e+06
+ cost: -13470
+Satisfied cnt:  187
+EQ: 303
+Currt: 1.0028e+06
+ cost: -11750
+Satisfied cnt:  188
+EQ: 304
+Currt: 1.0028e+06
+ cost: -9284
+Satisfied cnt:  189
+EQ: 305
+Currt: 1.0028e+06
+ cost: -9133
+Satisfied cnt:  189
+EQ: 306
+Currt: 1.0028e+06
+ cost: -10132
+Satisfied cnt:  188
+EQ: 307
+Currt: 1.0028e+06
+ cost: -9817
+Satisfied cnt:  187
+EQ: 308
+Currt: 1.0028e+06
+ cost: -6818
+Satisfied cnt:  190
+EQ: 309
+Currt: 1.0028e+06
+ cost: -5284
+Satisfied cnt:  193
+EQ: 310
+Currt: 1.0028e+06
+ cost: -7283
+Satisfied cnt:  191
+EQ: 311
+Currt: 1.0028e+06
+ cost: -9749
+Satisfied cnt:  190
+EQ: 312
+Currt: 1.0028e+06
+ cost: -8695
+Satisfied cnt:  192
+EQ: 313
+Currt: 1.0028e+06
+ cost: -5229
+Satisfied cnt:  194
+EQ: 314
+Currt: 1.0028e+06
+ cost: -3695
+Satisfied cnt:  197
+EQ: 315
+Currt: 1.0028e+06
+ cost: -2229
+Satisfied cnt:  197
+EQ: 316
+Currt: 1.0028e+06
+ cost: 237
+Satisfied cnt:  198
+EQ: 317
+Currt: 1.0028e+06
+ cost: -2229
+Satisfied cnt:  197
+EQ: 318
+Currt: 1.0028e+06
+ cost: -2338
+Satisfied cnt:  197
+EQ: 319
+Currt: 1.0028e+06
+ cost: -3392
+Satisfied cnt:  195
+EQ: 320
+Currt: 1.0028e+06
+ cost: -393
+Satisfied cnt:  198
+EQ: 321
+Currt: 1.0028e+06
+ cost: 1608
+Satisfied cnt:  200
+EQ: 322
+Currt: 1.0028e+06
+ cost: 1609
+Satisfied cnt:  200
+EQ: 323
+Currt: 1.0028e+06
+ cost: 844
+Satisfied cnt:  199
+EQ: 324
+Currt: 1.0028e+06
+ cost: -829
+Satisfied cnt:  197
+EQ: 325
+Currt: 1.0028e+06
+ cost: 637
+Satisfied cnt:  197
+EQ: 326
+Currt: 1.0028e+06
+ cost: 486
+Satisfied cnt:  197
+EQ: 327
+Currt: 1.0028e+06
+ cost: 4952
+Satisfied cnt:  200
+EQ: 328
+Currt: 1.0028e+06
+ cost: 1953
+Satisfied cnt:  197
+EQ: 329
+Currt: 1.0028e+06
+ cost: 1952
+Satisfied cnt:  197
+EQ: 330
+Currt: 1.0028e+06
+ cost: 4418
+Satisfied cnt:  198
+EQ: 331
+Currt: 1.0028e+06
+ cost: 6183
+Satisfied cnt:  200
+EQ: 332
+Currt: 1.0028e+06
+ cost: 7379
+Satisfied cnt:  202
+EQ: 333
+Currt: 1.0028e+06
+ cost: 7659
+Satisfied cnt:  203
+EQ: 334
+Currt: 1.0028e+06
+ cost: 5193
+Satisfied cnt:  202
+EQ: 335
+Currt: 1.0028e+06
+ cost: 6263
+Satisfied cnt:  204
+EQ: 336
+Currt: 1.0028e+06
+ cost: 4797
+Satisfied cnt:  204
+EQ: 337
+Currt: 1.0028e+06
+ cost: 3333
+Satisfied cnt:  202
+EQ: 338
+Currt: 1.0028e+06
+ cost: 867
+Satisfied cnt:  201
+EQ: 339
+Currt: 1.0028e+06
+ cost: 2733
+Satisfied cnt:  203
+EQ: 340
+Currt: 1.0028e+06
+ cost: 2732
+Satisfied cnt:  203
+EQ: 341
+Currt: 1.0028e+06
+ cost: -1033
+Satisfied cnt:  199
+EQ: 342
+Currt: 1.0028e+06
+ cost: -4499
+Satisfied cnt:  197
+EQ: 343
+Currt: 1.0028e+06
+ cost: -6498
+Satisfied cnt:  195
+EQ: 344
+Currt: 1.0028e+06
+ cost: -2733
+Satisfied cnt:  199
+EQ: 345
+Currt: 1.0028e+06
+ cost: -4599
+Satisfied cnt:  197
+EQ: 346
+Currt: 1.0028e+06
+ cost: -4926
+Satisfied cnt:  197
+EQ: 347
+Currt: 1.0028e+06
+ cost: -5927
+Satisfied cnt:  196
+EQ: 348
+Currt: 1.0028e+06
+ cost: -6928
+Satisfied cnt:  195
+EQ: 349
+Currt: 1.0028e+06
+ cost: -6462
+Satisfied cnt:  194
+EQ: 350
+Currt: 1.0028e+06
+ cost: -6998
+Satisfied cnt:  194
+EQ: 351
+Currt: 1.0028e+06
+ cost: -6462
+Satisfied cnt:  194
+EQ: 352
+Currt: 1.0028e+06
+ cost: -5353
+Satisfied cnt:  195
+EQ: 353
+Currt: 1.0028e+06
+ cost: -7202
+Satisfied cnt:  193
+EQ: 354
+Currt: 1.0028e+06
+ cost: -6203
+Satisfied cnt:  194
+EQ: 355
+Currt: 1.0028e+06
+ cost: -3737
+Satisfied cnt:  195
+EQ: 356
+Currt: 1.0028e+06
+ cost: -4846
+Satisfied cnt:  194
+EQ: 357
+Currt: 1.0028e+06
+ cost: -4845
+Satisfied cnt:  194
+EQ: 358
+Currt: 1.0028e+06
+ cost: -7041
+Satisfied cnt:  191
+EQ: 359
+Currt: 1.0028e+06
+ cost: -4575
+Satisfied cnt:  192
+EQ: 360
+Currt: 1.0028e+06
+ cost: -5574
+Satisfied cnt:  191
+EQ: 361
+Currt: 1.0028e+06
+ cost: -2108
+Satisfied cnt:  193
+EQ: 362
+Currt: 1.0028e+06
+ cost: 219
+Satisfied cnt:  195
+EQ: 363
+Currt: 1.0028e+06
+ cost: -851
+Satisfied cnt:  193
+EQ: 364
+Currt: 1.0028e+06
+ cost: 150
+Satisfied cnt:  194
+EQ: 365
+Currt: 1.0028e+06
+ cost: -1316
+Satisfied cnt:  194
+EQ: 366
+Currt: 1.0028e+06
+ cost: 150
+Satisfied cnt:  194
+EQ: 367
+Currt: 1.0028e+06
+ cost: -5316
+Satisfied cnt:  190
+EQ: 368
+Currt: 1.0028e+06
+ cost: -6850
+Satisfied cnt:  187
+EQ: 369
+Currt: 1.0028e+06
+ cost: -6849
+Satisfied cnt:  187
+EQ: 370
+Currt: 1.0028e+06
+ cost: -7848
+Satisfied cnt:  186
+EQ: 371
+Currt: 1.0028e+06
+ cost: -7848
+Satisfied cnt:  186
+EQ: 372
+Currt: 1.0028e+06
+ cost: -6847
+Satisfied cnt:  187
+EQ: 373
+Currt: 1.0028e+06
+ cost: -7848
+Satisfied cnt:  186
+EQ: 374
+Currt: 1.0028e+06
+ cost: -8163
+Satisfied cnt:  187
+EQ: 375
+Currt: 1.0028e+06
+ cost: -8164
+Satisfied cnt:  187
+EQ: 376
+Currt: 1.0028e+06
+ cost: -3698
+Satisfied cnt:  190
+EQ: 377
+Currt: 1.0028e+06
+ cost: -7164
+Satisfied cnt:  188
+EQ: 378
+Currt: 1.0028e+06
+ cost: -6163
+Satisfied cnt:  189
+EQ: 379
+Currt: 1.0028e+06
+ cost: -8162
+Satisfied cnt:  187
+EQ: 380
+Currt: 1.0028e+06
+ cost: -6163
+Satisfied cnt:  189
+EQ: 381
+Currt: 1.0028e+06
+ cost: -3629
+Satisfied cnt:  193
+EQ: 382
+Currt: 1.0028e+06
+ cost: -2314
+Satisfied cnt:  193
+EQ: 383
+Currt: 1.0028e+06
+ cost: -1780
+Satisfied cnt:  195
+EQ: 384
+Currt: 1.0028e+06
+ cost: 754
+Satisfied cnt:  199
+EQ: 385
+Currt: 1.0028e+06
+ cost: -561
+Satisfied cnt:  199
+EQ: 386
+Currt: 1.0028e+06
+ cost: -5027
+Satisfied cnt:  196
+EQ: 387
+Currt: 1.0028e+06
+ cost: -7493
+Satisfied cnt:  195
+EQ: 388
+Currt: 1.0028e+06
+ cost: -9959
+Satisfied cnt:  194
+EQ: 389
+Currt: 1.0028e+06
+ cost: -10960
+Satisfied cnt:  193
+EQ: 390
+Currt: 1.0028e+06
+ cost: -11240
+Satisfied cnt:  192
+EQ: 391
+Currt: 1.0028e+06
+ cost: -6774
+Satisfied cnt:  195
+EQ: 392
+Currt: 1.0028e+06
+ cost: -7635
+Satisfied cnt:  193
+EQ: 393
+Currt: 1.0028e+06
+ cost: -7636
+Satisfied cnt:  193
+EQ: 394
+Currt: 1.0028e+06
+ cost: -4170
+Satisfied cnt:  195
+EQ: 395
+Currt: 1.0028e+06
+ cost: -5304
+Satisfied cnt:  194
+EQ: 396
+Currt: 1.0028e+06
+ cost: -5374
+Satisfied cnt:  193
+EQ: 397
+Currt: 1.0028e+06
+ cost: 92
+Satisfied cnt:  197
+EQ: 398
+Currt: 1.0028e+06
+ cost: 1558
+Satisfied cnt:  197
+EQ: 399
+Currt: 1.0028e+06
+ cost: 92
+Satisfied cnt:  197
+EQ: 400
+Currt: 1.0028e+06
+ cost: -1374
+Satisfied cnt:  197
+EQ: 401
+Currt: 1.0028e+06
+ cost: -1304
+Satisfied cnt:  198
+EQ: 402
+Currt: 1.0028e+06
+ cost: -1305
+Satisfied cnt:  198
+EQ: 403
+Currt: 1.0028e+06
+ cost: -3771
+Satisfied cnt:  197
+EQ: 404
+Currt: 1.0028e+06
+ cost: -4905
+Satisfied cnt:  196
+EQ: 405
+Currt: 1.0028e+06
+ cost: -3439
+Satisfied cnt:  196
+EQ: 406
+Currt: 1.0028e+06
+ cost: -3438
+Satisfied cnt:  196
+EQ: 407
+Currt: 1.0028e+06
+ cost: -4904
+Satisfied cnt:  196
+EQ: 408
+Currt: 1.0028e+06
+ cost: -4770
+Satisfied cnt:  196
+EQ: 409
+Currt: 1.0028e+06
+ cost: -6769
+Satisfied cnt:  194
+EQ: 410
+Currt: 1.0028e+06
+ cost: -4303
+Satisfied cnt:  195
+EQ: 411
+Currt: 1.0028e+06
+ cost: -4769
+Satisfied cnt:  196
+EQ: 412
+Currt: 1.0028e+06
+ cost: -2303
+Satisfied cnt:  197
+EQ: 413
+Currt: 1.0028e+06
+ cost: -1304
+Satisfied cnt:  198
+EQ: 414
+Currt: 1.0028e+06
+ cost: -838
+Satisfied cnt:  197
+EQ: 415
+Currt: 1.0028e+06
+ cost: -3304
+Satisfied cnt:  196
+EQ: 416
+Currt: 1.0028e+06
+ cost: -1838
+Satisfied cnt:  196
+EQ: 417
+Currt: 1.0028e+06
+ cost: 161
+Satisfied cnt:  198
+EQ: 418
+Currt: 1.0028e+06
+ cost: -1166
+Satisfied cnt:  197
+EQ: 419
+Currt: 1.0028e+06
+ cost: 2300
+Satisfied cnt:  199
+EQ: 420
+Currt: 1.0028e+06
+ cost: -699
+Satisfied cnt:  196
+EQ: 421
+Currt: 1.0028e+06
+ cost: -2700
+Satisfied cnt:  194
+EQ: 422
+Currt: 1.0028e+06
+ cost: -3234
+Satisfied cnt:  192
+EQ: 423
+Currt: 1.0028e+06
+ cost: -3907
+Satisfied cnt:  191
+EQ: 424
+Currt: 1.0028e+06
+ cost: -4094
+Satisfied cnt:  190
+EQ: 425
+Currt: 1.0028e+06
+ cost: -3560
+Satisfied cnt:  192
+EQ: 426
+Currt: 1.0028e+06
+ cost: -2561
+Satisfied cnt:  193
+EQ: 427
+Currt: 1.0028e+06
+ cost: -1560
+Satisfied cnt:  194
+EQ: 428
+Currt: 1.0028e+06
+ cost: -1026
+Satisfied cnt:  196
+EQ: 429
+Currt: 1.0028e+06
+ cost: 440
+Satisfied cnt:  196
+EQ: 430
+Currt: 1.0028e+06
+ cost: 5439
+Satisfied cnt:  201
+EQ: 431
+Currt: 1.0028e+06
+ cost: 5440
+Satisfied cnt:  201
+EQ: 432
+Currt: 1.0028e+06
+ cost: 7439
+Satisfied cnt:  203
+EQ: 433
+Currt: 1.0028e+06
+ cost: 4973
+Satisfied cnt:  202
+EQ: 434
+Currt: 1.0028e+06
+ cost: 4082
+Satisfied cnt:  201
+EQ: 435
+Currt: 1.0028e+06
+ cost: 3081
+Satisfied cnt:  200
+EQ: 436
+Currt: 1.0028e+06
+ cost: -385
+Satisfied cnt:  198
+EQ: 437
+Currt: 1.0028e+06
+ cost: -2851
+Satisfied cnt:  197
+EQ: 438
+Currt: 1.0028e+06
+ cost: -3852
+Satisfied cnt:  196
+EQ: 439
+Currt: 1.0028e+06
+ cost: -6318
+Satisfied cnt:  195
+EQ: 440
+Currt: 1.0028e+06
+ cost: -8784
+Satisfied cnt:  194
+EQ: 441
+Currt: 1.0028e+06
+ cost: -8318
+Satisfied cnt:  193
+EQ: 442
+Currt: 1.0028e+06
+ cost: -6317
+Satisfied cnt:  195
+EQ: 443
+Currt: 1.0028e+06
+ cost: -6247
+Satisfied cnt:  196
+EQ: 444
+Currt: 1.0028e+06
+ cost: -8574
+Satisfied cnt:  194
+EQ: 445
+Currt: 1.0028e+06
+ cost: -6440
+Satisfied cnt:  196
+EQ: 446
+Currt: 1.0028e+06
+ cost: -6906
+Satisfied cnt:  197
+EQ: 447
+Currt: 1.0028e+06
+ cost: -6440
+Satisfied cnt:  196
+EQ: 448
+Currt: 1.0028e+06
+ cost: -8386
+Satisfied cnt:  195
+EQ: 449
+Currt: 1.0028e+06
+ cost: -9852
+Satisfied cnt:  195
+EQ: 450
+Currt: 1.0028e+06
+ cost: -10853
+Satisfied cnt:  194
+EQ: 451
+Currt: 1.0028e+06
+ cost: -9387
+Satisfied cnt:  194
+EQ: 452
+Currt: 1.0028e+06
+ cost: -8386
+Satisfied cnt:  195
+EQ: 453
+Currt: 1.0028e+06
+ cost: -10190
+Satisfied cnt:  194
+EQ: 454
+Currt: 1.0028e+06
+ cost: -8724
+Satisfied cnt:  194
+EQ: 455
+Currt: 1.0028e+06
+ cost: -6778
+Satisfied cnt:  195
+EQ: 456
+Currt: 1.0028e+06
+ cost: -2312
+Satisfied cnt:  198
+EQ: 457
+Currt: 1.0028e+06
+ cost: -639
+Satisfied cnt:  200
+EQ: 458
+Currt: 1.0028e+06
+ cost: -1638
+Satisfied cnt:  199
+EQ: 459
+Currt: 1.0028e+06
+ cost: -637
+Satisfied cnt:  200
+EQ: 460
+Currt: 1.0028e+06
+ cost: -310
+Satisfied cnt:  200
+EQ: 461
+Currt: 1.0028e+06
+ cost: 156
+Satisfied cnt:  199
+EQ: 462
+Currt: 1.0028e+06
+ cost: -2310
+Satisfied cnt:  198
+EQ: 463
+Currt: 1.0028e+06
+ cost: -4309
+Satisfied cnt:  196
+EQ: 464
+Currt: 1.0028e+06
+ cost: -2843
+Satisfied cnt:  196
+EQ: 465
+Currt: 1.0028e+06
+ cost: -5309
+Satisfied cnt:  195
+EQ: 466
+Currt: 1.0028e+06
+ cost: -3994
+Satisfied cnt:  195
+EQ: 467
+Currt: 1.0028e+06
+ cost: -4528
+Satisfied cnt:  193
+EQ: 468
+Currt: 1.0028e+06
+ cost: -4301
+Satisfied cnt:  193
+EQ: 469
+Currt: 1.0028e+06
+ cost: -3435
+Satisfied cnt:  194
+EQ: 470
+Currt: 1.0028e+06
+ cost: -3434
+Satisfied cnt:  194
+EQ: 471
+Currt: 1.0028e+06
+ cost: -6900
+Satisfied cnt:  192
+EQ: 472
+Currt: 1.0028e+06
+ cost: -3434
+Satisfied cnt:  194
+EQ: 473
+Currt: 1.0028e+06
+ cost: -4504
+Satisfied cnt:  192
+EQ: 474
+Currt: 1.0028e+06
+ cost: -3931
+Satisfied cnt:  193
+EQ: 475
+Currt: 1.0028e+06
+ cost: -4127
+Satisfied cnt:  192
+EQ: 476
+Currt: 1.0028e+06
+ cost: -5128
+Satisfied cnt:  191
+EQ: 477
+Currt: 1.0028e+06
+ cost: -5262
+Satisfied cnt:  191
+EQ: 478
+Currt: 1.0028e+06
+ cost: -5728
+Satisfied cnt:  192
+EQ: 479
+Currt: 1.0028e+06
+ cost: -3729
+Satisfied cnt:  194
+EQ: 480
+Currt: 1.0028e+06
+ cost: -3542
+Satisfied cnt:  195
+EQ: 481
+Currt: 1.0028e+06
+ cost: -1076
+Satisfied cnt:  196
+EQ: 482
+Currt: 1.0028e+06
+ cost: -2263
+Satisfied cnt:  194
+EQ: 483
+Currt: 1.0028e+06
+ cost: -3729
+Satisfied cnt:  194
+EQ: 484
+Currt: 1.0028e+06
+ cost: -1263
+Satisfied cnt:  195
+EQ: 485
+Currt: 1.0028e+06
+ cost: -5262
+Satisfied cnt:  191
+EQ: 486
+Currt: 1.0028e+06
+ cost: -6192
+Satisfied cnt:  191
+EQ: 487
+Currt: 1.0028e+06
+ cost: -6658
+Satisfied cnt:  192
+EQ: 488
+Currt: 1.0028e+06
+ cost: -9657
+Satisfied cnt:  189
+EQ: 489
+Currt: 1.0028e+06
+ cost: -6191
+Satisfied cnt:  191
+EQ: 490
+Currt: 1.0028e+06
+ cost: -9657
+Satisfied cnt:  189
+EQ: 491
+Currt: 1.0028e+06
+ cost: -8191
+Satisfied cnt:  189
+EQ: 492
+Currt: 1.0028e+06
+ cost: -8657
+Satisfied cnt:  190
+EQ: 493
+Currt: 1.0028e+06
+ cost: -9796
+Satisfied cnt:  190
+EQ: 494
+Currt: 1.0028e+06
+ cost: -9369
+Satisfied cnt:  190
+EQ: 495
+Currt: 1.0028e+06
+ cost: -8368
+Satisfied cnt:  191
+EQ: 496
+Currt: 1.0028e+06
+ cost: -10181
+Satisfied cnt:  190
+EQ: 497
+Currt: 1.0028e+06
+ cost: -9251
+Satisfied cnt:  190
+EQ: 498
+Currt: 1.0028e+06
+ cost: -7438
+Satisfied cnt:  191
+EQ: 499
+Currt: 1.0028e+06
+ cost: -8904
+Satisfied cnt:  191
+COOL
+EQ: 0
+Currt: 922576
+ cost: -7624
+Satisfied cnt:  193
+EQ: 1
+Currt: 922576
+ cost: -2158
+Satisfied cnt:  197
+EQ: 2
+Currt: 922576
+ cost: -1024
+Satisfied cnt:  198
+EQ: 3
+Currt: 922576
+ cost: 442
+Satisfied cnt:  198
+EQ: 4
+Currt: 922576
+ cost: -1371
+Satisfied cnt:  197
+EQ: 5
+Currt: 922576
+ cost: -2686
+Satisfied cnt:  197
+EQ: 6
+Currt: 922576
+ cost: -3220
+Satisfied cnt:  195
+EQ: 7
+Currt: 922576
+ cost: -3221
+Satisfied cnt:  195
+EQ: 8
+Currt: 922576
+ cost: -4222
+Satisfied cnt:  194
+EQ: 9
+Currt: 922576
+ cost: -3373
+Satisfied cnt:  195
+EQ: 10
+Currt: 922576
+ cost: -4222
+Satisfied cnt:  194
+EQ: 11
+Currt: 922576
+ cost: -4502
+Satisfied cnt:  193
+EQ: 12
+Currt: 922576
+ cost: -6501
+Satisfied cnt:  191
+EQ: 13
+Currt: 922576
+ cost: -6828
+Satisfied cnt:  191
+EQ: 14
+Currt: 922576
+ cost: -6632
+Satisfied cnt:  192
+EQ: 15
+Currt: 922576
+ cost: -7578
+Satisfied cnt:  192
+EQ: 16
+Currt: 922576
+ cost: -11044
+Satisfied cnt:  190
+EQ: 17
+Currt: 922576
+ cost: -6578
+Satisfied cnt:  193
+EQ: 18
+Currt: 922576
+ cost: -4112
+Satisfied cnt:  194
+EQ: 19
+Currt: 922576
+ cost: -2113
+Satisfied cnt:  196
+EQ: 20
+Currt: 922576
+ cost: -1114
+Satisfied cnt:  197
+EQ: 21
+Currt: 922576
+ cost: 352
+Satisfied cnt:  197
+EQ: 22
+Currt: 922576
+ cost: -647
+Satisfied cnt:  196
+EQ: 23
+Currt: 922576
+ cost: -1113
+Satisfied cnt:  197
+EQ: 24
+Currt: 922576
+ cost: -647
+Satisfied cnt:  196
+EQ: 25
+Currt: 922576
+ cost: -2646
+Satisfied cnt:  194
+EQ: 26
+Currt: 922576
+ cost: -2646
+Satisfied cnt:  194
+EQ: 27
+Currt: 922576
+ cost: -3112
+Satisfied cnt:  195
+EQ: 28
+Currt: 922576
+ cost: -4578
+Satisfied cnt:  195
+EQ: 29
+Currt: 922576
+ cost: -6044
+Satisfied cnt:  195
+EQ: 30
+Currt: 922576
+ cost: -7471
+Satisfied cnt:  194
+EQ: 31
+Currt: 922576
+ cost: -7144
+Satisfied cnt:  194
+EQ: 32
+Currt: 922576
+ cost: -8610
+Satisfied cnt:  194
+EQ: 33
+Currt: 922576
+ cost: -5330
+Satisfied cnt:  198
+EQ: 34
+Currt: 922576
+ cost: -5196
+Satisfied cnt:  198
+EQ: 35
+Currt: 922576
+ cost: -7523
+Satisfied cnt:  196
+EQ: 36
+Currt: 922576
+ cost: -7657
+Satisfied cnt:  196
+EQ: 37
+Currt: 922576
+ cost: -7656
+Satisfied cnt:  196
+EQ: 38
+Currt: 922576
+ cost: -11329
+Satisfied cnt:  192
+EQ: 39
+Currt: 922576
+ cost: -8863
+Satisfied cnt:  193
+EQ: 40
+Currt: 922576
+ cost: -6864
+Satisfied cnt:  195
+EQ: 41
+Currt: 922576
+ cost: -8863
+Satisfied cnt:  193
+EQ: 42
+Currt: 922576
+ cost: -10090
+Satisfied cnt:  192
+EQ: 43
+Currt: 922576
+ cost: -11610
+Satisfied cnt:  191
+EQ: 44
+Currt: 922576
+ cost: -14076
+Satisfied cnt:  190
+EQ: 45
+Currt: 922576
+ cost: -14937
+Satisfied cnt:  188
+EQ: 46
+Currt: 922576
+ cost: -14936
+Satisfied cnt:  188
+EQ: 47
+Currt: 922576
+ cost: -11470
+Satisfied cnt:  190
+EQ: 48
+Currt: 922576
+ cost: -12471
+Satisfied cnt:  189
+EQ: 49
+Currt: 922576
+ cost: -12470
+Satisfied cnt:  189
+EQ: 50
+Currt: 922576
+ cost: -14936
+Satisfied cnt:  188
+EQ: 51
+Currt: 922576
+ cost: -15709
+Satisfied cnt:  187
+EQ: 52
+Currt: 922576
+ cost: -14710
+Satisfied cnt:  188
+EQ: 53
+Currt: 922576
+ cost: -15861
+Satisfied cnt:  187
+EQ: 54
+Currt: 922576
+ cost: -14727
+Satisfied cnt:  188
+EQ: 55
+Currt: 922576
+ cost: -16193
+Satisfied cnt:  188
+EQ: 56
+Currt: 922576
+ cost: -15727
+Satisfied cnt:  187
+EQ: 57
+Currt: 922576
+ cost: -13261
+Satisfied cnt:  188
+EQ: 58
+Currt: 922576
+ cost: -12946
+Satisfied cnt:  187
+EQ: 59
+Currt: 922576
+ cost: -12273
+Satisfied cnt:  188
+EQ: 60
+Currt: 922576
+ cost: -10274
+Satisfied cnt:  190
+EQ: 61
+Currt: 922576
+ cost: -9740
+Satisfied cnt:  192
+EQ: 62
+Currt: 922576
+ cost: -10879
+Satisfied cnt:  192
+EQ: 63
+Currt: 922576
+ cost: -6880
+Satisfied cnt:  196
+EQ: 64
+Currt: 922576
+ cost: -6881
+Satisfied cnt:  196
+EQ: 65
+Currt: 922576
+ cost: -8015
+Satisfied cnt:  195
+EQ: 66
+Currt: 922576
+ cost: -10780
+Satisfied cnt:  192
+EQ: 67
+Currt: 922576
+ cost: -8781
+Satisfied cnt:  194
+EQ: 68
+Currt: 922576
+ cost: -10008
+Satisfied cnt:  193
+EQ: 69
+Currt: 922576
+ cost: -6542
+Satisfied cnt:  195
+EQ: 70
+Currt: 922576
+ cost: -5115
+Satisfied cnt:  196
+EQ: 71
+Currt: 922576
+ cost: -6581
+Satisfied cnt:  196
+EQ: 72
+Currt: 922576
+ cost: -8047
+Satisfied cnt:  196
+EQ: 73
+Currt: 922576
+ cost: -7583
+Satisfied cnt:  197
+EQ: 74
+Currt: 922576
+ cost: -8063
+Satisfied cnt:  196
+EQ: 75
+Currt: 922576
+ cost: -9529
+Satisfied cnt:  196
+EQ: 76
+Currt: 922576
+ cost: -6530
+Satisfied cnt:  199
+EQ: 77
+Currt: 922576
+ cost: -8460
+Satisfied cnt:  198
+EQ: 78
+Currt: 922576
+ cost: -7461
+Satisfied cnt:  199
+EQ: 79
+Currt: 922576
+ cost: -4995
+Satisfied cnt:  200
+EQ: 80
+Currt: 922576
+ cost: -6461
+Satisfied cnt:  200
+EQ: 81
+Currt: 922576
+ cost: -6570
+Satisfied cnt:  200
+EQ: 82
+Currt: 922576
+ cost: -5104
+Satisfied cnt:  200
+EQ: 83
+Currt: 922576
+ cost: -3638
+Satisfied cnt:  200
+EQ: 84
+Currt: 922576
+ cost: -3637
+Satisfied cnt:  200
+EQ: 85
+Currt: 922576
+ cost: -4064
+Satisfied cnt:  200
+EQ: 86
+Currt: 922576
+ cost: -1118
+Satisfied cnt:  202
+EQ: 87
+Currt: 922576
+ cost: 1348
+Satisfied cnt:  203
+EQ: 88
+Currt: 922576
+ cost: 1349
+Satisfied cnt:  203
+EQ: 89
+Currt: 922576
+ cost: -1117
+Satisfied cnt:  202
+EQ: 90
+Currt: 922576
+ cost: -1304
+Satisfied cnt:  201
+EQ: 91
+Currt: 922576
+ cost: -2838
+Satisfied cnt:  198
+EQ: 92
+Currt: 922576
+ cost: -2837
+Satisfied cnt:  198
+EQ: 93
+Currt: 922576
+ cost: -2371
+Satisfied cnt:  197
+EQ: 94
+Currt: 922576
+ cost: 95
+Satisfied cnt:  198
+EQ: 95
+Currt: 922576
+ cost: -906
+Satisfied cnt:  197
+EQ: 96
+Currt: 922576
+ cost: 1560
+Satisfied cnt:  198
+EQ: 97
+Currt: 922576
+ cost: -960
+Satisfied cnt:  196
+EQ: 98
+Currt: 922576
+ cost: 1506
+Satisfied cnt:  197
+EQ: 99
+Currt: 922576
+ cost: 507
+Satisfied cnt:  196
+EQ: 100
+Currt: 922576
+ cost: -959
+Satisfied cnt:  196
+EQ: 101
+Currt: 922576
+ cost: -194
+Satisfied cnt:  197
+EQ: 102
+Currt: 922576
+ cost: 1805
+Satisfied cnt:  199
+EQ: 103
+Currt: 922576
+ cost: -661
+Satisfied cnt:  198
+EQ: 104
+Currt: 922576
+ cost: -660
+Satisfied cnt:  198
+EQ: 105
+Currt: 922576
+ cost: -3606
+Satisfied cnt:  196
+EQ: 106
+Currt: 922576
+ cost: -3140
+Satisfied cnt:  195
+EQ: 107
+Currt: 922576
+ cost: -1139
+Satisfied cnt:  197
+EQ: 108
+Currt: 922576
+ cost: -2605
+Satisfied cnt:  197
+EQ: 109
+Currt: 922576
+ cost: -5454
+Satisfied cnt:  194
+EQ: 110
+Currt: 922576
+ cost: -6455
+Satisfied cnt:  193
+EQ: 111
+Currt: 922576
+ cost: -6921
+Satisfied cnt:  194
+EQ: 112
+Currt: 922576
+ cost: -9920
+Satisfied cnt:  191
+EQ: 113
+Currt: 922576
+ cost: -9593
+Satisfied cnt:  191
+EQ: 114
+Currt: 922576
+ cost: -8592
+Satisfied cnt:  192
+EQ: 115
+Currt: 922576
+ cost: -13058
+Satisfied cnt:  189
+EQ: 116
+Currt: 922576
+ cost: -11592
+Satisfied cnt:  189
+EQ: 117
+Currt: 922576
+ cost: -15058
+Satisfied cnt:  187
+EQ: 118
+Currt: 922576
+ cost: -16057
+Satisfied cnt:  186
+EQ: 119
+Currt: 922576
+ cost: -17523
+Satisfied cnt:  186
+EQ: 120
+Currt: 922576
+ cost: -20522
+Satisfied cnt:  183
+EQ: 121
+Currt: 922576
+ cost: -19295
+Satisfied cnt:  184
+EQ: 122
+Currt: 922576
+ cost: -19829
+Satisfied cnt:  182
+EQ: 123
+Currt: 922576
+ cost: -19309
+Satisfied cnt:  182
+EQ: 124
+Currt: 922576
+ cost: -17460
+Satisfied cnt:  184
+EQ: 125
+Currt: 922576
+ cost: -16926
+Satisfied cnt:  186
+EQ: 126
+Currt: 922576
+ cost: -15499
+Satisfied cnt:  187
+EQ: 127
+Currt: 922576
+ cost: -14826
+Satisfied cnt:  188
+EQ: 128
+Currt: 922576
+ cost: -14687
+Satisfied cnt:  187
+EQ: 129
+Currt: 922576
+ cost: -15153
+Satisfied cnt:  188
+EQ: 130
+Currt: 922576
+ cost: -14687
+Satisfied cnt:  187
+EQ: 131
+Currt: 922576
+ cost: -11221
+Satisfied cnt:  189
+EQ: 132
+Currt: 922576
+ cost: -11755
+Satisfied cnt:  187
+EQ: 133
+Currt: 922576
+ cost: -11221
+Satisfied cnt:  189
+EQ: 134
+Currt: 922576
+ cost: -9501
+Satisfied cnt:  190
+EQ: 135
+Currt: 922576
+ cost: -5500
+Satisfied cnt:  194
+EQ: 136
+Currt: 922576
+ cost: -7634
+Satisfied cnt:  192
+EQ: 137
+Currt: 922576
+ cost: -10861
+Satisfied cnt:  189
+EQ: 138
+Currt: 922576
+ cost: -11000
+Satisfied cnt:  190
+EQ: 139
+Currt: 922576
+ cost: -11001
+Satisfied cnt:  190
+EQ: 140
+Currt: 922576
+ cost: -11465
+Satisfied cnt:  189
+EQ: 141
+Currt: 922576
+ cost: -11466
+Satisfied cnt:  189
+EQ: 142
+Currt: 922576
+ cost: -9000
+Satisfied cnt:  190
+EQ: 143
+Currt: 922576
+ cost: -5534
+Satisfied cnt:  192
+EQ: 144
+Currt: 922576
+ cost: -1068
+Satisfied cnt:  195
+EQ: 145
+Currt: 922576
+ cost: -2534
+Satisfied cnt:  195
+EQ: 146
+Currt: 922576
+ cost: -207
+Satisfied cnt:  197
+EQ: 147
+Currt: 922576
+ cost: 1792
+Satisfied cnt:  199
+EQ: 148
+Currt: 922576
+ cost: 793
+Satisfied cnt:  198
+EQ: 149
+Currt: 922576
+ cost: -3208
+Satisfied cnt:  194
+EQ: 150
+Currt: 922576
+ cost: -4074
+Satisfied cnt:  193
+EQ: 151
+Currt: 922576
+ cost: -4075
+Satisfied cnt:  193
+EQ: 152
+Currt: 922576
+ cost: -5888
+Satisfied cnt:  192
+EQ: 153
+Currt: 922576
+ cost: -2422
+Satisfied cnt:  194
+EQ: 154
+Currt: 922576
+ cost: -2958
